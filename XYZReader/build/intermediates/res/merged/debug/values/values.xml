@@ -321,7 +321,9 @@
     <string name="appbar_scrolling_view_behavior" translatable="false">android.support.design.widget.AppBarLayout$ScrollingViewBehavior</string>
     <string name="bottom_sheet_behavior" translatable="false">android.support.design.widget.BottomSheetBehavior</string>
     <string name="character_counter_pattern" translatable="false">%1$d / %2$d</string>
+    <string name="msg_no_internet">"Check Your Internet "</string>
     <string name="status_bar_notification_info_overflow">999+</string>
+    <string name="transition_thumbnail_to_poster">transit_image</string>
     <string name="up">Up</string>
     <string name="welcome_xyz_reader">Welcome to XYZ Reader!</string>
     <style name="AlertDialog.AppCompat" parent="Base.AlertDialog.AppCompat"/>

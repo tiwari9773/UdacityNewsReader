@@ -1,11 +1,14 @@
 package com.example.xyzreader.ui;
 
+import android.app.ActivityOptions;
 import android.content.BroadcastReceiver;
 import android.content.Context;
 import android.content.Intent;
 import android.content.IntentFilter;
 import android.database.Cursor;
+import android.os.Build;
 import android.os.Bundle;
+import android.support.design.widget.Snackbar;
 import android.support.v4.app.LoaderManager;
 import android.support.v4.content.Loader;
 import android.support.v4.widget.SwipeRefreshLayout;
@@ -24,6 +27,7 @@ import com.example.xyzreader.data.ArticleLoader;
 import com.example.xyzreader.data.ItemsContract;
 import com.example.xyzreader.data.UpdaterService;
 import com.example.xyzreader.helper.ImageLoaderHelper;
+import com.example.xyzreader.helper.NetworkHelper;
 
 /**
  * An activity representing a list of Articles. This activity has different presentations for
@@ -37,6 +41,8 @@ public class ArticleListActivity extends AppCompatActivity implements
     private Toolbar mToolbar;
     private SwipeRefreshLayout mSwipeRefreshLayout;
     private RecyclerView mRecyclerView;
+    private Snackbar snackBar;
+    private View clParent;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -51,15 +57,32 @@ public class ArticleListActivity extends AppCompatActivity implements
         mSwipeRefreshLayout = (SwipeRefreshLayout) findViewById(R.id.swipe_refresh_layout);
 
         mRecyclerView = (RecyclerView) findViewById(R.id.recycler_view);
+        clParent = findViewById(R.id.cl_parent);
         getSupportLoaderManager().initLoader(0, null, this);
 
         if (savedInstanceState == null) {
             refresh();
         }
+
+        mSwipeRefreshLayout.setOnRefreshListener(new SwipeRefreshLayout.OnRefreshListener() {
+            @Override
+            public void onRefresh() {
+                if (!mIsRefreshing) {
+                    refresh();
+                }
+            }
+        });
     }
 
     private void refresh() {
-        startService(new Intent(this, UpdaterService.class));
+        if (NetworkHelper.isNetworkAvailable(this)) {
+            mIsRefreshing = true;
+            startService(new Intent(this, UpdaterService.class));
+        } else {
+            mIsRefreshing = false;
+            updateRefreshingUI();
+            showMessage(getString(R.string.msg_no_internet));
+        }
     }
 
     @Override
@@ -132,8 +155,14 @@ public class ArticleListActivity extends AppCompatActivity implements
             view.setOnClickListener(new View.OnClickListener() {
                 @Override
                 public void onClick(View view) {
-                    startActivity(new Intent(Intent.ACTION_VIEW,
-                            ItemsContract.Items.buildItemUri(getItemId(vh.getAdapterPosition()))));
+                    if (Build.VERSION.SDK_INT >= Build.VERSION_CODES.LOLLIPOP) {
+                        String transition = getString(R.string.transition_thumbnail_to_poster);
+                        ActivityOptions options = ActivityOptions.makeSceneTransitionAnimation(ArticleListActivity.this, view, transition);
+                        startActivity(new Intent(Intent.ACTION_VIEW,
+                                ItemsContract.Items.buildItemUri(getItemId(vh.getAdapterPosition()))), options.toBundle());
+                    } else
+                        startActivity(new Intent(Intent.ACTION_VIEW,
+                                ItemsContract.Items.buildItemUri(getItemId(vh.getAdapterPosition()))));
                 }
             });
             return vh;
@@ -174,4 +203,10 @@ public class ArticleListActivity extends AppCompatActivity implements
             subtitleView = (TextView) view.findViewById(R.id.article_subtitle);
         }
     }
+
+    private void showMessage(String userMessage) {
+        snackBar = Snackbar.make(clParent, userMessage, Snackbar.LENGTH_SHORT);
+        snackBar.show();
+    }
+
 }

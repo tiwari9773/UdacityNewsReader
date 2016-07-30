@@ -9,5 +9,8 @@
 
     <string name="up">Up</string>
     <string name="app_title">Udacity News</string>
+    <string name="msg_no_internet">"Check Your Internet "</string>
+
+    <string name="transition_thumbnail_to_poster">transit_image</string>
 
 </resources>

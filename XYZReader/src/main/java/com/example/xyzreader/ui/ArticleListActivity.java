@@ -19,9 +19,11 @@ import android.view.ViewGroup;
 import android.widget.TextView;
 
 import com.example.xyzreader.R;
+import com.example.xyzreader.custom_views.DynamicHeightNetworkImageView;
 import com.example.xyzreader.data.ArticleLoader;
 import com.example.xyzreader.data.ItemsContract;
 import com.example.xyzreader.data.UpdaterService;
+import com.example.xyzreader.helper.ImageLoaderHelper;
 
 /**
  * An activity representing a list of Articles. This activity has different presentations for
@@ -42,7 +44,7 @@ public class ArticleListActivity extends AppCompatActivity implements
         setContentView(R.layout.activity_article_list);
 
         mToolbar = (Toolbar) findViewById(R.id.toolbar);
-        mToolbar.setTitle("Udacity News");
+        mToolbar.setTitle(R.string.app_title);
 
         setSupportActionBar(mToolbar);
 

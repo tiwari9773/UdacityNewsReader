@@ -1,3 +1,0 @@
-CHANGED,P:\UdacityProject\xyzreader\XYZReader\build\intermediates\transforms\instantRun\debug\folders\1\5\main\com\example\xyzreader\ui\ArticleDetailFragment.class
-CHANGED,P:\UdacityProject\xyzreader\XYZReader\build\intermediates\transforms\instantRun\debug\folders\1\5\main\com\example\xyzreader\ui\ArticleDetailFragment$1.class
-CHANGED,P:\UdacityProject\xyzreader\XYZReader\build\intermediates\transforms\instantRun\debug\folders\1\5\main\com\example\xyzreader\ui\ArticleDetailFragment$2.class

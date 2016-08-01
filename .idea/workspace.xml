@@ -10,211 +10,69 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a3715ab8-235b-4a80-9573-96e17d296290" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/XYZReader/build/intermediates/builds/debug/29637626114366/classes.dex" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/XYZReader/build/intermediates/classes/debug/com/example/xyzreader/custom_views/DividerItemDecoration.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/XYZReader/build/intermediates/classes/debug/com/example/xyzreader/custom_views/DrawInsetsFrameLayout$OnInsetsCallback.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/XYZReader/build/intermediates/classes/debug/com/example/xyzreader/custom_views/DrawInsetsFrameLayout.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/XYZReader/build/intermediates/classes/debug/com/example/xyzreader/custom_views/MaxWidthLinearLayout.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/XYZReader/build/intermediates/classes/debug/com/example/xyzreader/custom_views/ObservableScrollView$Callbacks.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/XYZReader/build/intermediates/classes/debug/com/example/xyzreader/custom_views/ObservableScrollView.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/XYZReader/build/intermediates/classes/debug/com/example/xyzreader/ui/ArticleDetailActivity$2.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/XYZReader/build/intermediates/classes/debug/com/example/xyzreader/ui/ArticleDetailActivity$3.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/XYZReader/build/intermediates/classes/debug/com/example/xyzreader/ui/ArticleDetailFragment$3.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/XYZReader/build/intermediates/classes/debug/com/example/xyzreader/ui/ArticleDetailFragment$4.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/XYZReader/build/intermediates/incremental-verifier/debug/com/example/xyzreader/custom_views/DividerItemDecoration.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/XYZReader/build/intermediates/incremental-verifier/debug/com/example/xyzreader/custom_views/DrawInsetsFrameLayout$OnInsetsCallback.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/XYZReader/build/intermediates/incremental-verifier/debug/com/example/xyzreader/custom_views/DrawInsetsFrameLayout.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/XYZReader/build/intermediates/incremental-verifier/debug/com/example/xyzreader/custom_views/MaxWidthLinearLayout.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/XYZReader/build/intermediates/incremental-verifier/debug/com/example/xyzreader/custom_views/ObservableScrollView$Callbacks.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/XYZReader/build/intermediates/incremental-verifier/debug/com/example/xyzreader/custom_views/ObservableScrollView.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/XYZReader/build/intermediates/incremental-verifier/debug/com/example/xyzreader/ui/ArticleDetailActivity$2.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/XYZReader/build/intermediates/incremental-verifier/debug/com/example/xyzreader/ui/ArticleDetailActivity$3.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/XYZReader/build/intermediates/incremental-verifier/debug/com/example/xyzreader/ui/ArticleDetailFragment$3.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/XYZReader/build/intermediates/incremental-verifier/debug/com/example/xyzreader/ui/ArticleDetailFragment$4.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/XYZReader/build/intermediates/instant-run-support/debug/reload-changes.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/XYZReader/build/intermediates/transforms/instantRun/debug/folders/1/5/main/com/example/xyzreader/custom_views/DividerItemDecoration.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/XYZReader/build/intermediates/transforms/instantRun/debug/folders/1/5/main/com/example/xyzreader/custom_views/DrawInsetsFrameLayout$OnInsetsCallback.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/XYZReader/build/intermediates/transforms/instantRun/debug/folders/1/5/main/com/example/xyzreader/custom_views/DrawInsetsFrameLayout.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/XYZReader/build/intermediates/transforms/instantRun/debug/folders/1/5/main/com/example/xyzreader/custom_views/MaxWidthLinearLayout.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/XYZReader/build/intermediates/transforms/instantRun/debug/folders/1/5/main/com/example/xyzreader/custom_views/ObservableScrollView$Callbacks.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/XYZReader/build/intermediates/transforms/instantRun/debug/folders/1/5/main/com/example/xyzreader/custom_views/ObservableScrollView.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/XYZReader/build/intermediates/transforms/instantRun/debug/folders/1/5/main/com/example/xyzreader/ui/ArticleDetailActivity$2.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/XYZReader/build/intermediates/transforms/instantRun/debug/folders/1/5/main/com/example/xyzreader/ui/ArticleDetailActivity$3.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/XYZReader/build/intermediates/transforms/instantRun/debug/folders/1/5/main/com/example/xyzreader/ui/ArticleDetailFragment$3.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/XYZReader/build/intermediates/transforms/instantRun/debug/folders/1/5/main/com/example/xyzreader/ui/ArticleDetailFragment$4.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/XYZReader/build/intermediates/transforms/instantRun/debug/folders/4000/5/enhanced/android/support/design/R$string$override.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/XYZReader/build/intermediates/transforms/instantRun/debug/folders/4000/5/enhanced/com/example/xyzreader/data/UpdaterService$override.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/XYZReader/build/intermediates/transforms/instantRun/debug/folders/4000/5/enhanced/com/example/xyzreader/remote/Config$override.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/XYZReader/build/intermediates/transforms/instantRun/debug/folders/4000/5/enhanced/com/example/xyzreader/ui/ArticleDetailFragment$3$override.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/XYZReader/build/intermediates/transforms/instantRun/debug/folders/4000/5/enhanced/com/example/xyzreader/ui/ArticleDetailFragment$4$override.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/XYZReader/build/intermediates/transforms/instantRun/debug/folders/4000/5/enhanced/com/example/xyzreader/ui/ArticleListActivity$1$override.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/XYZReader/build/intermediates/transforms/instantRun/debug/folders/4000/5/enhanced/com/example/xyzreader/ui/ArticleListActivity$2$override.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/XYZReader/build/intermediates/transforms/instantRun/debug/folders/4000/5/enhanced/com/example/xyzreader/ui/ArticleListActivity$Adapter$1$override.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/XYZReader/build/intermediates/transforms/instantRun/debug/folders/4000/5/enhanced/com/example/xyzreader/ui/ArticleListActivity$Adapter$override.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/XYZReader/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_1/com/example/xyzreader/ui/ArticleDetailActivity$2.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/XYZReader/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_1/com/example/xyzreader/ui/ArticleDetailActivity$3.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/XYZReader/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_1/com/example/xyzreader/ui/ArticleDetailFragment$3.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/XYZReader/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_1/com/example/xyzreader/ui/ArticleDetailFragment$4.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/XYZReader/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_9/com/example/xyzreader/custom_views/DividerItemDecoration.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/XYZReader/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_9/com/example/xyzreader/custom_views/DrawInsetsFrameLayout$OnInsetsCallback.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/XYZReader/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_9/com/example/xyzreader/custom_views/DrawInsetsFrameLayout.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/XYZReader/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_9/com/example/xyzreader/custom_views/MaxWidthLinearLayout.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/XYZReader/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_9/com/example/xyzreader/custom_views/ObservableScrollView$Callbacks.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/XYZReader/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_9/com/example/xyzreader/custom_views/ObservableScrollView.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/XYZReader/src/main/assets/Rosario-Regular.ttf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/XYZReader/src/main/java/com/example/xyzreader/custom_views/DividerItemDecoration.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/XYZReader/src/main/java/com/example/xyzreader/custom_views/DrawInsetsFrameLayout.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/XYZReader/src/main/java/com/example/xyzreader/custom_views/MaxWidthLinearLayout.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/XYZReader/src/main/java/com/example/xyzreader/custom_views/ObservableScrollView.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/XYZReader/build/intermediates/assets/debug/Rosario-Regular.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/XYZReader/build/intermediates/blame/res/debug/multi/color.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/XYZReader/build/intermediates/builds/debug/87697354482401/classes.dex" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/XYZReader/build/intermediates/builds/debug/90650192702264/classes.dex" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/XYZReader/build/intermediates/builds/debug/92267322560468/classes.dex" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/XYZReader/build/intermediates/builds/debug/92320575361554/classes.dex" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/XYZReader/build/intermediates/builds/debug/92337308501004/classes.dex" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/XYZReader/build/intermediates/instant-run-support/debug/restart-changes.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/XYZReader/build/intermediates/reload-dex/debug/classes.dex" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/XYZReader/build/intermediates/reload-dex/debug/classes.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/XYZReader/build/intermediates/transforms/instantRun/debug/folders/4000/5/enhanced/android/support/design/R$color$override.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/XYZReader/build/intermediates/transforms/instantRun/debug/folders/4000/5/enhanced/android/support/design/R$dimen$override.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/XYZReader/build/intermediates/transforms/instantRun/debug/folders/4000/5/enhanced/android/support/design/R$id$override.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/XYZReader/build/intermediates/transforms/instantRun/debug/folders/4000/5/enhanced/android/support/v7/appcompat/R$color$override.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/XYZReader/build/intermediates/transforms/instantRun/debug/folders/4000/5/enhanced/android/support/v7/appcompat/R$dimen$override.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/XYZReader/build/intermediates/transforms/instantRun/debug/folders/4000/5/enhanced/android/support/v7/appcompat/R$id$override.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/XYZReader/build/intermediates/transforms/instantRun/debug/folders/4000/5/enhanced/android/support/v7/cardview/R$color$override.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/XYZReader/build/intermediates/transforms/instantRun/debug/folders/4000/5/enhanced/android/support/v7/recyclerview/R$dimen$override.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/XYZReader/build/intermediates/transforms/instantRun/debug/folders/4000/5/enhanced/com/android/tools/fd/runtime/AppPatchesLoaderImpl.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/XYZReader/build/intermediates/transforms/instantRun/debug/folders/4000/5/enhanced/com/example/xyzreader/R$color$override.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/XYZReader/build/intermediates/transforms/instantRun/debug/folders/4000/5/enhanced/com/example/xyzreader/R$dimen$override.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/XYZReader/build/intermediates/transforms/instantRun/debug/folders/4000/5/enhanced/com/example/xyzreader/R$drawable$override.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/XYZReader/build/intermediates/transforms/instantRun/debug/folders/4000/5/enhanced/com/example/xyzreader/R$fraction$override.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/XYZReader/build/intermediates/transforms/instantRun/debug/folders/4000/5/enhanced/com/example/xyzreader/R$id$override.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/XYZReader/build/intermediates/transforms/instantRun/debug/folders/4000/5/enhanced/com/example/xyzreader/R$integer$override.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/XYZReader/build/intermediates/transforms/instantRun/debug/folders/4000/5/enhanced/com/example/xyzreader/R$layout$override.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/XYZReader/build/intermediates/transforms/instantRun/debug/folders/4000/5/enhanced/com/example/xyzreader/R$menu$override.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/XYZReader/build/intermediates/transforms/instantRun/debug/folders/4000/5/enhanced/com/example/xyzreader/R$mipmap$override.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/XYZReader/build/intermediates/transforms/instantRun/debug/folders/4000/5/enhanced/com/example/xyzreader/R$override.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/XYZReader/build/intermediates/transforms/instantRun/debug/folders/4000/5/enhanced/com/example/xyzreader/R$string$override.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/XYZReader/build/intermediates/transforms/instantRun/debug/folders/4000/5/enhanced/com/example/xyzreader/R$style$override.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/XYZReader/build/intermediates/transforms/instantRun/debug/folders/4000/5/enhanced/com/example/xyzreader/R$styleable$override.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/XYZReader/build/intermediates/transforms/instantRun/debug/folders/4000/5/enhanced/com/example/xyzreader/ui/ArticleDetailActivity$1$override.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/XYZReader/build/intermediates/transforms/instantRun/debug/folders/4000/5/enhanced/com/example/xyzreader/ui/ArticleDetailActivity$MyPagerAdapter$override.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/XYZReader/build/intermediates/transforms/instantRun/debug/folders/4000/5/enhanced/com/example/xyzreader/ui/ArticleDetailActivity$override.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/XYZReader/build/intermediates/transforms/instantRun/debug/folders/4000/5/enhanced/com/example/xyzreader/ui/ArticleDetailFragment$1$override.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/XYZReader/build/intermediates/transforms/instantRun/debug/folders/4000/5/enhanced/com/example/xyzreader/ui/ArticleDetailFragment$2$override.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/XYZReader/build/intermediates/transforms/instantRun/debug/folders/4000/5/enhanced/com/example/xyzreader/ui/ArticleDetailFragment$override.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/XYZReader/build/intermediates/transforms/instantRun/debug/folders/4000/5/enhanced/com/example/xyzreader/ui/ArticleListActivity$ViewHolder$override.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/XYZReader/build/intermediates/transforms/instantRun/debug/folders/4000/5/enhanced/com/example/xyzreader/ui/ArticleListActivity$override.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/XYZReader/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_0/buildId.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/XYZReader/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_1/buildId.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/XYZReader/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_2/buildId.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/XYZReader/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_3/buildId.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/XYZReader/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_7/buildId.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/XYZReader/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_9/buildId.txt" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/2.10/taskArtifacts/cache.properties.lock" afterPath="$PROJECT_DIR$/.gradle/2.10/taskArtifacts/cache.properties.lock" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/2.10/taskArtifacts/fileHashes.bin" afterPath="$PROJECT_DIR$/.gradle/2.10/taskArtifacts/fileHashes.bin" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/2.10/taskArtifacts/fileSnapshots.bin" afterPath="$PROJECT_DIR$/.gradle/2.10/taskArtifacts/fileSnapshots.bin" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/2.10/taskArtifacts/outputFileStates.bin" afterPath="$PROJECT_DIR$/.gradle/2.10/taskArtifacts/outputFileStates.bin" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/2.10/taskArtifacts/taskArtifacts.bin" afterPath="$PROJECT_DIR$/.gradle/2.10/taskArtifacts/taskArtifacts.bin" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/2.10/tasks/_XYZReader_compileDebugJavaWithJavac/localClassSetAnalysis/localClassSetAnalysis.bin" afterPath="$PROJECT_DIR$/.gradle/2.10/tasks/_XYZReader_compileDebugJavaWithJavac/localClassSetAnalysis/localClassSetAnalysis.bin" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/2.10/tasks/_XYZReader_compileDebugJavaWithJavac/localClassSetAnalysis/localClassSetAnalysis.lock" afterPath="$PROJECT_DIR$/.gradle/2.10/tasks/_XYZReader_compileDebugJavaWithJavac/localClassSetAnalysis/localClassSetAnalysis.lock" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/2.10/tasks/_XYZReader_compileDebugJavaWithJavac/localJarClasspathSnapshot/localJarClasspathSnapshot.lock" afterPath="$PROJECT_DIR$/.gradle/2.10/tasks/_XYZReader_compileDebugJavaWithJavac/localJarClasspathSnapshot/localJarClasspathSnapshot.lock" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/XYZReader/build/intermediates/classes/debug/android/support/design/R$color.class" afterPath="$PROJECT_DIR$/XYZReader/build/intermediates/classes/debug/android/support/design/R$color.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/XYZReader/build/intermediates/classes/debug/android/support/design/R$dimen.class" afterPath="$PROJECT_DIR$/XYZReader/build/intermediates/classes/debug/android/support/design/R$dimen.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/XYZReader/build/intermediates/classes/debug/android/support/design/R$id.class" afterPath="$PROJECT_DIR$/XYZReader/build/intermediates/classes/debug/android/support/design/R$id.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/XYZReader/build/intermediates/classes/debug/android/support/v7/appcompat/R$color.class" afterPath="$PROJECT_DIR$/XYZReader/build/intermediates/classes/debug/android/support/v7/appcompat/R$color.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/XYZReader/build/intermediates/classes/debug/android/support/v7/appcompat/R$dimen.class" afterPath="$PROJECT_DIR$/XYZReader/build/intermediates/classes/debug/android/support/v7/appcompat/R$dimen.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/XYZReader/build/intermediates/classes/debug/android/support/v7/appcompat/R$id.class" afterPath="$PROJECT_DIR$/XYZReader/build/intermediates/classes/debug/android/support/v7/appcompat/R$id.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/XYZReader/build/intermediates/classes/debug/android/support/v7/cardview/R$color.class" afterPath="$PROJECT_DIR$/XYZReader/build/intermediates/classes/debug/android/support/v7/cardview/R$color.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/XYZReader/build/intermediates/classes/debug/android/support/v7/recyclerview/R$dimen.class" afterPath="$PROJECT_DIR$/XYZReader/build/intermediates/classes/debug/android/support/v7/recyclerview/R$dimen.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/XYZReader/build/intermediates/classes/debug/com/example/xyzreader/R$color.class" afterPath="$PROJECT_DIR$/XYZReader/build/intermediates/classes/debug/com/example/xyzreader/R$color.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/XYZReader/build/intermediates/classes/debug/com/example/xyzreader/R$dimen.class" afterPath="$PROJECT_DIR$/XYZReader/build/intermediates/classes/debug/com/example/xyzreader/R$dimen.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/XYZReader/build/intermediates/classes/debug/com/example/xyzreader/R$drawable.class" afterPath="$PROJECT_DIR$/XYZReader/build/intermediates/classes/debug/com/example/xyzreader/R$drawable.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/XYZReader/build/intermediates/classes/debug/com/example/xyzreader/R$fraction.class" afterPath="$PROJECT_DIR$/XYZReader/build/intermediates/classes/debug/com/example/xyzreader/R$fraction.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/XYZReader/build/intermediates/classes/debug/com/example/xyzreader/R$id.class" afterPath="$PROJECT_DIR$/XYZReader/build/intermediates/classes/debug/com/example/xyzreader/R$id.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/XYZReader/build/intermediates/classes/debug/com/example/xyzreader/R$integer.class" afterPath="$PROJECT_DIR$/XYZReader/build/intermediates/classes/debug/com/example/xyzreader/R$integer.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/XYZReader/build/intermediates/classes/debug/com/example/xyzreader/R$layout.class" afterPath="$PROJECT_DIR$/XYZReader/build/intermediates/classes/debug/com/example/xyzreader/R$layout.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/XYZReader/build/intermediates/classes/debug/com/example/xyzreader/R$menu.class" afterPath="$PROJECT_DIR$/XYZReader/build/intermediates/classes/debug/com/example/xyzreader/R$menu.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/XYZReader/build/intermediates/classes/debug/com/example/xyzreader/R$mipmap.class" afterPath="$PROJECT_DIR$/XYZReader/build/intermediates/classes/debug/com/example/xyzreader/R$mipmap.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/XYZReader/build/intermediates/classes/debug/com/example/xyzreader/R$string.class" afterPath="$PROJECT_DIR$/XYZReader/build/intermediates/classes/debug/com/example/xyzreader/R$string.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/XYZReader/build/intermediates/classes/debug/com/example/xyzreader/R$style.class" afterPath="$PROJECT_DIR$/XYZReader/build/intermediates/classes/debug/com/example/xyzreader/R$style.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/XYZReader/build/intermediates/classes/debug/com/example/xyzreader/R$styleable.class" afterPath="$PROJECT_DIR$/XYZReader/build/intermediates/classes/debug/com/example/xyzreader/R$styleable.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/XYZReader/build/intermediates/classes/debug/com/example/xyzreader/R.class" afterPath="$PROJECT_DIR$/XYZReader/build/intermediates/classes/debug/com/example/xyzreader/R.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/XYZReader/build/intermediates/classes/debug/com/example/xyzreader/ui/ArticleDetailActivity$1.class" afterPath="$PROJECT_DIR$/XYZReader/build/intermediates/classes/debug/com/example/xyzreader/ui/ArticleDetailActivity$1.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/XYZReader/build/intermediates/classes/debug/com/example/xyzreader/ui/ArticleDetailActivity$MyPagerAdapter.class" afterPath="$PROJECT_DIR$/XYZReader/build/intermediates/classes/debug/com/example/xyzreader/ui/ArticleDetailActivity$MyPagerAdapter.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/XYZReader/build/intermediates/classes/debug/com/example/xyzreader/ui/ArticleDetailActivity.class" afterPath="$PROJECT_DIR$/XYZReader/build/intermediates/classes/debug/com/example/xyzreader/ui/ArticleDetailActivity.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/XYZReader/build/intermediates/classes/debug/com/example/xyzreader/ui/ArticleDetailFragment$1.class" afterPath="$PROJECT_DIR$/XYZReader/build/intermediates/classes/debug/com/example/xyzreader/ui/ArticleDetailFragment$1.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/XYZReader/build/intermediates/classes/debug/com/example/xyzreader/ui/ArticleDetailFragment$2.class" afterPath="$PROJECT_DIR$/XYZReader/build/intermediates/classes/debug/com/example/xyzreader/ui/ArticleDetailFragment$2.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/XYZReader/build/intermediates/classes/debug/com/example/xyzreader/ui/ArticleDetailFragment.class" afterPath="$PROJECT_DIR$/XYZReader/build/intermediates/classes/debug/com/example/xyzreader/ui/ArticleDetailFragment.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/XYZReader/build/intermediates/classes/debug/com/example/xyzreader/ui/ArticleListActivity$ViewHolder.class" afterPath="$PROJECT_DIR$/XYZReader/build/intermediates/classes/debug/com/example/xyzreader/ui/ArticleListActivity$ViewHolder.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/XYZReader/build/intermediates/classes/debug/com/example/xyzreader/ui/ArticleListActivity.class" afterPath="$PROJECT_DIR$/XYZReader/build/intermediates/classes/debug/com/example/xyzreader/ui/ArticleListActivity.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/XYZReader/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar" afterPath="$PROJECT_DIR$/XYZReader/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/XYZReader/build/intermediates/incremental-runtime-classes/debug/instant-run.jar" afterPath="$PROJECT_DIR$/XYZReader/build/intermediates/incremental-runtime-classes/debug/instant-run.jar" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/XYZReader/build/intermediates/incremental-verifier/debug/android/support/design/R$color.class" afterPath="$PROJECT_DIR$/XYZReader/build/intermediates/incremental-verifier/debug/android/support/design/R$color.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/XYZReader/build/intermediates/incremental-verifier/debug/android/support/design/R$dimen.class" afterPath="$PROJECT_DIR$/XYZReader/build/intermediates/incremental-verifier/debug/android/support/design/R$dimen.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/XYZReader/build/intermediates/incremental-verifier/debug/android/support/design/R$id.class" afterPath="$PROJECT_DIR$/XYZReader/build/intermediates/incremental-verifier/debug/android/support/design/R$id.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/XYZReader/build/intermediates/incremental-verifier/debug/android/support/v7/appcompat/R$color.class" afterPath="$PROJECT_DIR$/XYZReader/build/intermediates/incremental-verifier/debug/android/support/v7/appcompat/R$color.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/XYZReader/build/intermediates/incremental-verifier/debug/android/support/v7/appcompat/R$dimen.class" afterPath="$PROJECT_DIR$/XYZReader/build/intermediates/incremental-verifier/debug/android/support/v7/appcompat/R$dimen.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/XYZReader/build/intermediates/incremental-verifier/debug/android/support/v7/appcompat/R$id.class" afterPath="$PROJECT_DIR$/XYZReader/build/intermediates/incremental-verifier/debug/android/support/v7/appcompat/R$id.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/XYZReader/build/intermediates/incremental-verifier/debug/android/support/v7/cardview/R$color.class" afterPath="$PROJECT_DIR$/XYZReader/build/intermediates/incremental-verifier/debug/android/support/v7/cardview/R$color.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/XYZReader/build/intermediates/incremental-verifier/debug/android/support/v7/recyclerview/R$dimen.class" afterPath="$PROJECT_DIR$/XYZReader/build/intermediates/incremental-verifier/debug/android/support/v7/recyclerview/R$dimen.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/XYZReader/build/intermediates/incremental-verifier/debug/com/example/xyzreader/R$color.class" afterPath="$PROJECT_DIR$/XYZReader/build/intermediates/incremental-verifier/debug/com/example/xyzreader/R$color.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/XYZReader/build/intermediates/incremental-verifier/debug/com/example/xyzreader/R$dimen.class" afterPath="$PROJECT_DIR$/XYZReader/build/intermediates/incremental-verifier/debug/com/example/xyzreader/R$dimen.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/XYZReader/build/intermediates/incremental-verifier/debug/com/example/xyzreader/R$drawable.class" afterPath="$PROJECT_DIR$/XYZReader/build/intermediates/incremental-verifier/debug/com/example/xyzreader/R$drawable.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/XYZReader/build/intermediates/incremental-verifier/debug/com/example/xyzreader/R$fraction.class" afterPath="$PROJECT_DIR$/XYZReader/build/intermediates/incremental-verifier/debug/com/example/xyzreader/R$fraction.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/XYZReader/build/intermediates/incremental-verifier/debug/com/example/xyzreader/R$id.class" afterPath="$PROJECT_DIR$/XYZReader/build/intermediates/incremental-verifier/debug/com/example/xyzreader/R$id.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/XYZReader/build/intermediates/incremental-verifier/debug/com/example/xyzreader/R$integer.class" afterPath="$PROJECT_DIR$/XYZReader/build/intermediates/incremental-verifier/debug/com/example/xyzreader/R$integer.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/XYZReader/build/intermediates/incremental-verifier/debug/com/example/xyzreader/R$layout.class" afterPath="$PROJECT_DIR$/XYZReader/build/intermediates/incremental-verifier/debug/com/example/xyzreader/R$layout.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/XYZReader/build/intermediates/incremental-verifier/debug/com/example/xyzreader/R$menu.class" afterPath="$PROJECT_DIR$/XYZReader/build/intermediates/incremental-verifier/debug/com/example/xyzreader/R$menu.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/XYZReader/build/intermediates/incremental-verifier/debug/com/example/xyzreader/R$mipmap.class" afterPath="$PROJECT_DIR$/XYZReader/build/intermediates/incremental-verifier/debug/com/example/xyzreader/R$mipmap.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/XYZReader/build/intermediates/incremental-verifier/debug/com/example/xyzreader/R$string.class" afterPath="$PROJECT_DIR$/XYZReader/build/intermediates/incremental-verifier/debug/com/example/xyzreader/R$string.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/XYZReader/build/intermediates/incremental-verifier/debug/com/example/xyzreader/R$style.class" afterPath="$PROJECT_DIR$/XYZReader/build/intermediates/incremental-verifier/debug/com/example/xyzreader/R$style.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/XYZReader/build/intermediates/incremental-verifier/debug/com/example/xyzreader/R$styleable.class" afterPath="$PROJECT_DIR$/XYZReader/build/intermediates/incremental-verifier/debug/com/example/xyzreader/R$styleable.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/XYZReader/build/intermediates/incremental-verifier/debug/com/example/xyzreader/R.class" afterPath="$PROJECT_DIR$/XYZReader/build/intermediates/incremental-verifier/debug/com/example/xyzreader/R.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/XYZReader/build/intermediates/incremental-verifier/debug/com/example/xyzreader/ui/ArticleDetailActivity$1.class" afterPath="$PROJECT_DIR$/XYZReader/build/intermediates/incremental-verifier/debug/com/example/xyzreader/ui/ArticleDetailActivity$1.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/XYZReader/build/intermediates/incremental-verifier/debug/com/example/xyzreader/ui/ArticleDetailActivity$MyPagerAdapter.class" afterPath="$PROJECT_DIR$/XYZReader/build/intermediates/incremental-verifier/debug/com/example/xyzreader/ui/ArticleDetailActivity$MyPagerAdapter.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/XYZReader/build/intermediates/incremental-verifier/debug/com/example/xyzreader/ui/ArticleDetailActivity.class" afterPath="$PROJECT_DIR$/XYZReader/build/intermediates/incremental-verifier/debug/com/example/xyzreader/ui/ArticleDetailActivity.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/XYZReader/build/intermediates/incremental-verifier/debug/com/example/xyzreader/ui/ArticleDetailFragment$1.class" afterPath="$PROJECT_DIR$/XYZReader/build/intermediates/incremental-verifier/debug/com/example/xyzreader/ui/ArticleDetailFragment$1.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/XYZReader/build/intermediates/incremental-verifier/debug/com/example/xyzreader/ui/ArticleDetailFragment$2.class" afterPath="$PROJECT_DIR$/XYZReader/build/intermediates/incremental-verifier/debug/com/example/xyzreader/ui/ArticleDetailFragment$2.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/XYZReader/build/intermediates/incremental-verifier/debug/com/example/xyzreader/ui/ArticleDetailFragment.class" afterPath="$PROJECT_DIR$/XYZReader/build/intermediates/incremental-verifier/debug/com/example/xyzreader/ui/ArticleDetailFragment.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/XYZReader/build/intermediates/incremental-verifier/debug/com/example/xyzreader/ui/ArticleListActivity$ViewHolder.class" afterPath="$PROJECT_DIR$/XYZReader/build/intermediates/incremental-verifier/debug/com/example/xyzreader/ui/ArticleListActivity$ViewHolder.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/XYZReader/build/intermediates/incremental-verifier/debug/com/example/xyzreader/ui/ArticleListActivity.class" afterPath="$PROJECT_DIR$/XYZReader/build/intermediates/incremental-verifier/debug/com/example/xyzreader/ui/ArticleListActivity.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/XYZReader/build/intermediates/instant-run-support/debug/classes.zip" afterPath="$PROJECT_DIR$/XYZReader/build/intermediates/instant-run-support/debug/classes.zip" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/XYZReader/build/intermediates/instant-run-support/debug/resources.zip" afterPath="$PROJECT_DIR$/XYZReader/build/intermediates/instant-run-support/debug/resources.zip" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/XYZReader/build/intermediates/res/resources-debug-androidTest.ap_" afterPath="$PROJECT_DIR$/XYZReader/build/intermediates/res/resources-debug-androidTest.ap_" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/XYZReader/build/intermediates/res/resources-debug.ap_" afterPath="$PROJECT_DIR$/XYZReader/build/intermediates/res/resources-debug.ap_" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/5/slice_0/classes.dex" afterPath="$PROJECT_DIR$/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/5/slice_0/classes.dex" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/5/slice_1/classes.dex" afterPath="$PROJECT_DIR$/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/5/slice_1/classes.dex" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/5/slice_2/classes.dex" afterPath="$PROJECT_DIR$/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/5/slice_2/classes.dex" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/5/slice_3/classes.dex" afterPath="$PROJECT_DIR$/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/5/slice_3/classes.dex" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/5/slice_7/classes.dex" afterPath="$PROJECT_DIR$/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/5/slice_7/classes.dex" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/5/slice_9/classes.dex" afterPath="$PROJECT_DIR$/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/5/slice_9/classes.dex" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/XYZReader/build/intermediates/transforms/instantRun/debug/folders/1/5/main/android/support/design/R$color.class" afterPath="$PROJECT_DIR$/XYZReader/build/intermediates/transforms/instantRun/debug/folders/1/5/main/android/support/design/R$color.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/XYZReader/build/intermediates/transforms/instantRun/debug/folders/1/5/main/android/support/design/R$dimen.class" afterPath="$PROJECT_DIR$/XYZReader/build/intermediates/transforms/instantRun/debug/folders/1/5/main/android/support/design/R$dimen.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/XYZReader/build/intermediates/transforms/instantRun/debug/folders/1/5/main/android/support/design/R$id.class" afterPath="$PROJECT_DIR$/XYZReader/build/intermediates/transforms/instantRun/debug/folders/1/5/main/android/support/design/R$id.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/XYZReader/build/intermediates/transforms/instantRun/debug/folders/1/5/main/android/support/v7/appcompat/R$color.class" afterPath="$PROJECT_DIR$/XYZReader/build/intermediates/transforms/instantRun/debug/folders/1/5/main/android/support/v7/appcompat/R$color.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/XYZReader/build/intermediates/transforms/instantRun/debug/folders/1/5/main/android/support/v7/appcompat/R$dimen.class" afterPath="$PROJECT_DIR$/XYZReader/build/intermediates/transforms/instantRun/debug/folders/1/5/main/android/support/v7/appcompat/R$dimen.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/XYZReader/build/intermediates/transforms/instantRun/debug/folders/1/5/main/android/support/v7/appcompat/R$id.class" afterPath="$PROJECT_DIR$/XYZReader/build/intermediates/transforms/instantRun/debug/folders/1/5/main/android/support/v7/appcompat/R$id.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/XYZReader/build/intermediates/transforms/instantRun/debug/folders/1/5/main/android/support/v7/cardview/R$color.class" afterPath="$PROJECT_DIR$/XYZReader/build/intermediates/transforms/instantRun/debug/folders/1/5/main/android/support/v7/cardview/R$color.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/XYZReader/build/intermediates/transforms/instantRun/debug/folders/1/5/main/android/support/v7/recyclerview/R$dimen.class" afterPath="$PROJECT_DIR$/XYZReader/build/intermediates/transforms/instantRun/debug/folders/1/5/main/android/support/v7/recyclerview/R$dimen.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/XYZReader/build/intermediates/transforms/instantRun/debug/folders/1/5/main/com/example/xyzreader/R$color.class" afterPath="$PROJECT_DIR$/XYZReader/build/intermediates/transforms/instantRun/debug/folders/1/5/main/com/example/xyzreader/R$color.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/XYZReader/build/intermediates/transforms/instantRun/debug/folders/1/5/main/com/example/xyzreader/R$dimen.class" afterPath="$PROJECT_DIR$/XYZReader/build/intermediates/transforms/instantRun/debug/folders/1/5/main/com/example/xyzreader/R$dimen.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/XYZReader/build/intermediates/transforms/instantRun/debug/folders/1/5/main/com/example/xyzreader/R$drawable.class" afterPath="$PROJECT_DIR$/XYZReader/build/intermediates/transforms/instantRun/debug/folders/1/5/main/com/example/xyzreader/R$drawable.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/XYZReader/build/intermediates/transforms/instantRun/debug/folders/1/5/main/com/example/xyzreader/R$fraction.class" afterPath="$PROJECT_DIR$/XYZReader/build/intermediates/transforms/instantRun/debug/folders/1/5/main/com/example/xyzreader/R$fraction.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/XYZReader/build/intermediates/transforms/instantRun/debug/folders/1/5/main/com/example/xyzreader/R$id.class" afterPath="$PROJECT_DIR$/XYZReader/build/intermediates/transforms/instantRun/debug/folders/1/5/main/com/example/xyzreader/R$id.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/XYZReader/build/intermediates/transforms/instantRun/debug/folders/1/5/main/com/example/xyzreader/R$integer.class" afterPath="$PROJECT_DIR$/XYZReader/build/intermediates/transforms/instantRun/debug/folders/1/5/main/com/example/xyzreader/R$integer.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/XYZReader/build/intermediates/transforms/instantRun/debug/folders/1/5/main/com/example/xyzreader/R$layout.class" afterPath="$PROJECT_DIR$/XYZReader/build/intermediates/transforms/instantRun/debug/folders/1/5/main/com/example/xyzreader/R$layout.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/XYZReader/build/intermediates/transforms/instantRun/debug/folders/1/5/main/com/example/xyzreader/R$menu.class" afterPath="$PROJECT_DIR$/XYZReader/build/intermediates/transforms/instantRun/debug/folders/1/5/main/com/example/xyzreader/R$menu.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/XYZReader/build/intermediates/transforms/instantRun/debug/folders/1/5/main/com/example/xyzreader/R$mipmap.class" afterPath="$PROJECT_DIR$/XYZReader/build/intermediates/transforms/instantRun/debug/folders/1/5/main/com/example/xyzreader/R$mipmap.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/XYZReader/build/intermediates/transforms/instantRun/debug/folders/1/5/main/com/example/xyzreader/R$string.class" afterPath="$PROJECT_DIR$/XYZReader/build/intermediates/transforms/instantRun/debug/folders/1/5/main/com/example/xyzreader/R$string.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/XYZReader/build/intermediates/transforms/instantRun/debug/folders/1/5/main/com/example/xyzreader/R$style.class" afterPath="$PROJECT_DIR$/XYZReader/build/intermediates/transforms/instantRun/debug/folders/1/5/main/com/example/xyzreader/R$style.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/XYZReader/build/intermediates/transforms/instantRun/debug/folders/1/5/main/com/example/xyzreader/R$styleable.class" afterPath="$PROJECT_DIR$/XYZReader/build/intermediates/transforms/instantRun/debug/folders/1/5/main/com/example/xyzreader/R$styleable.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/XYZReader/build/intermediates/transforms/instantRun/debug/folders/1/5/main/com/example/xyzreader/R.class" afterPath="$PROJECT_DIR$/XYZReader/build/intermediates/transforms/instantRun/debug/folders/1/5/main/com/example/xyzreader/R.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/XYZReader/build/intermediates/transforms/instantRun/debug/folders/1/5/main/com/example/xyzreader/ui/ArticleDetailActivity$1.class" afterPath="$PROJECT_DIR$/XYZReader/build/intermediates/transforms/instantRun/debug/folders/1/5/main/com/example/xyzreader/ui/ArticleDetailActivity$1.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/XYZReader/build/intermediates/transforms/instantRun/debug/folders/1/5/main/com/example/xyzreader/ui/ArticleDetailActivity$MyPagerAdapter.class" afterPath="$PROJECT_DIR$/XYZReader/build/intermediates/transforms/instantRun/debug/folders/1/5/main/com/example/xyzreader/ui/ArticleDetailActivity$MyPagerAdapter.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/XYZReader/build/intermediates/transforms/instantRun/debug/folders/1/5/main/com/example/xyzreader/ui/ArticleDetailActivity.class" afterPath="$PROJECT_DIR$/XYZReader/build/intermediates/transforms/instantRun/debug/folders/1/5/main/com/example/xyzreader/ui/ArticleDetailActivity.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/XYZReader/build/intermediates/transforms/instantRun/debug/folders/1/5/main/com/example/xyzreader/ui/ArticleDetailFragment$1.class" afterPath="$PROJECT_DIR$/XYZReader/build/intermediates/transforms/instantRun/debug/folders/1/5/main/com/example/xyzreader/ui/ArticleDetailFragment$1.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/XYZReader/build/intermediates/transforms/instantRun/debug/folders/1/5/main/com/example/xyzreader/ui/ArticleDetailFragment$2.class" afterPath="$PROJECT_DIR$/XYZReader/build/intermediates/transforms/instantRun/debug/folders/1/5/main/com/example/xyzreader/ui/ArticleDetailFragment$2.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/XYZReader/build/intermediates/transforms/instantRun/debug/folders/1/5/main/com/example/xyzreader/ui/ArticleDetailFragment.class" afterPath="$PROJECT_DIR$/XYZReader/build/intermediates/transforms/instantRun/debug/folders/1/5/main/com/example/xyzreader/ui/ArticleDetailFragment.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/XYZReader/build/intermediates/transforms/instantRun/debug/folders/1/5/main/com/example/xyzreader/ui/ArticleListActivity$ViewHolder.class" afterPath="$PROJECT_DIR$/XYZReader/build/intermediates/transforms/instantRun/debug/folders/1/5/main/com/example/xyzreader/ui/ArticleListActivity$ViewHolder.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/XYZReader/build/intermediates/transforms/instantRun/debug/folders/1/5/main/com/example/xyzreader/ui/ArticleListActivity.class" afterPath="$PROJECT_DIR$/XYZReader/build/intermediates/transforms/instantRun/debug/folders/1/5/main/com/example/xyzreader/ui/ArticleListActivity.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/XYZReader/build/intermediates/transforms/instantRun/debug/folders/4000/5/enhanced/android/support/design/R$id$override.class" afterPath="$PROJECT_DIR$/XYZReader/build/intermediates/transforms/instantRun/debug/folders/4000/5/enhanced/android/support/design/R$id$override.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/XYZReader/build/intermediates/transforms/instantRun/debug/folders/4000/5/enhanced/android/support/v7/appcompat/R$id$override.class" afterPath="$PROJECT_DIR$/XYZReader/build/intermediates/transforms/instantRun/debug/folders/4000/5/enhanced/android/support/v7/appcompat/R$id$override.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/XYZReader/build/intermediates/transforms/instantRun/debug/folders/4000/5/enhanced/com/android/tools/fd/runtime/AppPatchesLoaderImpl.class" afterPath="$PROJECT_DIR$/XYZReader/build/intermediates/transforms/instantRun/debug/folders/4000/5/enhanced/com/android/tools/fd/runtime/AppPatchesLoaderImpl.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/XYZReader/build/intermediates/transforms/instantRun/debug/folders/4000/5/enhanced/com/example/xyzreader/R$id$override.class" afterPath="$PROJECT_DIR$/XYZReader/build/intermediates/transforms/instantRun/debug/folders/4000/5/enhanced/com/example/xyzreader/R$id$override.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/XYZReader/build/intermediates/transforms/instantRun/debug/folders/4000/5/enhanced/com/example/xyzreader/R$override.class" afterPath="$PROJECT_DIR$/XYZReader/build/intermediates/transforms/instantRun/debug/folders/4000/5/enhanced/com/example/xyzreader/R$override.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/XYZReader/build/intermediates/transforms/instantRun/debug/folders/4000/5/enhanced/com/example/xyzreader/ui/ArticleDetailActivity$1$override.class" afterPath="$PROJECT_DIR$/XYZReader/build/intermediates/transforms/instantRun/debug/folders/4000/5/enhanced/com/example/xyzreader/ui/ArticleDetailActivity$1$override.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/XYZReader/build/intermediates/transforms/instantRun/debug/folders/4000/5/enhanced/com/example/xyzreader/ui/ArticleDetailActivity$MyPagerAdapter$override.class" afterPath="$PROJECT_DIR$/XYZReader/build/intermediates/transforms/instantRun/debug/folders/4000/5/enhanced/com/example/xyzreader/ui/ArticleDetailActivity$MyPagerAdapter$override.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/XYZReader/build/intermediates/transforms/instantRun/debug/folders/4000/5/enhanced/com/example/xyzreader/ui/ArticleDetailActivity$override.class" afterPath="$PROJECT_DIR$/XYZReader/build/intermediates/transforms/instantRun/debug/folders/4000/5/enhanced/com/example/xyzreader/ui/ArticleDetailActivity$override.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/XYZReader/build/intermediates/transforms/instantRun/debug/folders/4000/5/enhanced/com/example/xyzreader/ui/ArticleDetailFragment$1$override.class" afterPath="$PROJECT_DIR$/XYZReader/build/intermediates/transforms/instantRun/debug/folders/4000/5/enhanced/com/example/xyzreader/ui/ArticleDetailFragment$1$override.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/XYZReader/build/intermediates/transforms/instantRun/debug/folders/4000/5/enhanced/com/example/xyzreader/ui/ArticleDetailFragment$2$override.class" afterPath="$PROJECT_DIR$/XYZReader/build/intermediates/transforms/instantRun/debug/folders/4000/5/enhanced/com/example/xyzreader/ui/ArticleDetailFragment$2$override.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/XYZReader/build/intermediates/transforms/instantRun/debug/folders/4000/5/enhanced/com/example/xyzreader/ui/ArticleDetailFragment$override.class" afterPath="$PROJECT_DIR$/XYZReader/build/intermediates/transforms/instantRun/debug/folders/4000/5/enhanced/com/example/xyzreader/ui/ArticleDetailFragment$override.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/XYZReader/build/intermediates/transforms/instantRun/debug/folders/4000/5/enhanced/com/example/xyzreader/ui/ArticleListActivity$ViewHolder$override.class" afterPath="$PROJECT_DIR$/XYZReader/build/intermediates/transforms/instantRun/debug/folders/4000/5/enhanced/com/example/xyzreader/ui/ArticleListActivity$ViewHolder$override.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/XYZReader/build/intermediates/transforms/instantRun/debug/folders/4000/5/enhanced/com/example/xyzreader/ui/ArticleListActivity$override.class" afterPath="$PROJECT_DIR$/XYZReader/build/intermediates/transforms/instantRun/debug/folders/4000/5/enhanced/com/example/xyzreader/ui/ArticleListActivity$override.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/XYZReader/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_0/android/support/design/R$color.class" afterPath="$PROJECT_DIR$/XYZReader/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_0/android/support/design/R$color.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/XYZReader/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_0/android/support/design/R$dimen.class" afterPath="$PROJECT_DIR$/XYZReader/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_0/android/support/design/R$dimen.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/XYZReader/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_0/android/support/design/R$id.class" afterPath="$PROJECT_DIR$/XYZReader/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_0/android/support/design/R$id.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/XYZReader/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_0/android/support/v7/cardview/R$color.class" afterPath="$PROJECT_DIR$/XYZReader/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_0/android/support/v7/cardview/R$color.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/XYZReader/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_1/com/example/xyzreader/ui/ArticleDetailActivity$1.class" afterPath="$PROJECT_DIR$/XYZReader/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_1/com/example/xyzreader/ui/ArticleDetailActivity$1.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/XYZReader/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_1/com/example/xyzreader/ui/ArticleDetailActivity$MyPagerAdapter.class" afterPath="$PROJECT_DIR$/XYZReader/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_1/com/example/xyzreader/ui/ArticleDetailActivity$MyPagerAdapter.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/XYZReader/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_1/com/example/xyzreader/ui/ArticleDetailActivity.class" afterPath="$PROJECT_DIR$/XYZReader/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_1/com/example/xyzreader/ui/ArticleDetailActivity.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/XYZReader/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_1/com/example/xyzreader/ui/ArticleDetailFragment$1.class" afterPath="$PROJECT_DIR$/XYZReader/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_1/com/example/xyzreader/ui/ArticleDetailFragment$1.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/XYZReader/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_1/com/example/xyzreader/ui/ArticleDetailFragment$2.class" afterPath="$PROJECT_DIR$/XYZReader/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_1/com/example/xyzreader/ui/ArticleDetailFragment$2.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/XYZReader/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_1/com/example/xyzreader/ui/ArticleDetailFragment.class" afterPath="$PROJECT_DIR$/XYZReader/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_1/com/example/xyzreader/ui/ArticleDetailFragment.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/XYZReader/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_1/com/example/xyzreader/ui/ArticleListActivity$ViewHolder.class" afterPath="$PROJECT_DIR$/XYZReader/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_1/com/example/xyzreader/ui/ArticleListActivity$ViewHolder.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/XYZReader/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_1/com/example/xyzreader/ui/ArticleListActivity.class" afterPath="$PROJECT_DIR$/XYZReader/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_1/com/example/xyzreader/ui/ArticleListActivity.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/XYZReader/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_2/android/support/v7/appcompat/R$color.class" afterPath="$PROJECT_DIR$/XYZReader/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_2/android/support/v7/appcompat/R$color.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/XYZReader/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_2/android/support/v7/appcompat/R$dimen.class" afterPath="$PROJECT_DIR$/XYZReader/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_2/android/support/v7/appcompat/R$dimen.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/XYZReader/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_2/android/support/v7/appcompat/R$id.class" afterPath="$PROJECT_DIR$/XYZReader/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_2/android/support/v7/appcompat/R$id.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/XYZReader/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_3/com/example/xyzreader/R$color.class" afterPath="$PROJECT_DIR$/XYZReader/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_3/com/example/xyzreader/R$color.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/XYZReader/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_3/com/example/xyzreader/R$dimen.class" afterPath="$PROJECT_DIR$/XYZReader/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_3/com/example/xyzreader/R$dimen.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/XYZReader/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_3/com/example/xyzreader/R$drawable.class" afterPath="$PROJECT_DIR$/XYZReader/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_3/com/example/xyzreader/R$drawable.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/XYZReader/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_3/com/example/xyzreader/R$fraction.class" afterPath="$PROJECT_DIR$/XYZReader/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_3/com/example/xyzreader/R$fraction.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/XYZReader/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_3/com/example/xyzreader/R$id.class" afterPath="$PROJECT_DIR$/XYZReader/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_3/com/example/xyzreader/R$id.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/XYZReader/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_3/com/example/xyzreader/R$integer.class" afterPath="$PROJECT_DIR$/XYZReader/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_3/com/example/xyzreader/R$integer.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/XYZReader/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_3/com/example/xyzreader/R$layout.class" afterPath="$PROJECT_DIR$/XYZReader/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_3/com/example/xyzreader/R$layout.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/XYZReader/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_3/com/example/xyzreader/R$menu.class" afterPath="$PROJECT_DIR$/XYZReader/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_3/com/example/xyzreader/R$menu.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/XYZReader/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_3/com/example/xyzreader/R$mipmap.class" afterPath="$PROJECT_DIR$/XYZReader/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_3/com/example/xyzreader/R$mipmap.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/XYZReader/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_3/com/example/xyzreader/R$string.class" afterPath="$PROJECT_DIR$/XYZReader/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_3/com/example/xyzreader/R$string.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/XYZReader/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_3/com/example/xyzreader/R$style.class" afterPath="$PROJECT_DIR$/XYZReader/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_3/com/example/xyzreader/R$style.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/XYZReader/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_3/com/example/xyzreader/R$styleable.class" afterPath="$PROJECT_DIR$/XYZReader/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_3/com/example/xyzreader/R$styleable.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/XYZReader/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_3/com/example/xyzreader/R.class" afterPath="$PROJECT_DIR$/XYZReader/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_3/com/example/xyzreader/R.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/XYZReader/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_7/android/support/v7/recyclerview/R$dimen.class" afterPath="$PROJECT_DIR$/XYZReader/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_7/android/support/v7/recyclerview/R$dimen.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/XYZReader/build/outputs/apk/XYZReader-debug-unaligned.apk" afterPath="$PROJECT_DIR$/XYZReader/build/outputs/apk/XYZReader-debug-unaligned.apk" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/XYZReader/build/outputs/apk/XYZReader-debug.apk" afterPath="$PROJECT_DIR$/XYZReader/build/outputs/apk/XYZReader-debug.apk" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
@@ -224,28 +82,14 @@
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/XYZReader/build/generated/source/r/debug/android/support/v7/appcompat/R.java" afterPath="$PROJECT_DIR$/XYZReader/build/generated/source/r/debug/android/support/v7/appcompat/R.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/XYZReader/build/generated/source/r/debug/android/support/v7/cardview/R.java" afterPath="$PROJECT_DIR$/XYZReader/build/generated/source/r/debug/android/support/v7/cardview/R.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/XYZReader/build/generated/source/r/debug/android/support/v7/recyclerview/R.java" afterPath="$PROJECT_DIR$/XYZReader/build/generated/source/r/debug/android/support/v7/recyclerview/R.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/XYZReader/build/generated/source/r/debug/com/example/xyzreader/R.java" afterPath="$PROJECT_DIR$/XYZReader/build/generated/source/r/debug/com/example/xyzreader/R.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/XYZReader/build/intermediates/blame/res/debug/multi/values.json" afterPath="$PROJECT_DIR$/XYZReader/build/intermediates/blame/res/debug/multi/values.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/XYZReader/build/intermediates/blame/res/debug/single/drawable-xhdpi-v4.json" afterPath="$PROJECT_DIR$/XYZReader/build/intermediates/blame/res/debug/single/drawable-xhdpi-v4.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/XYZReader/build/intermediates/incremental/mergeDebugAssets/merger.xml" afterPath="$PROJECT_DIR$/XYZReader/build/intermediates/incremental/mergeDebugAssets/merger.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/XYZReader/build/intermediates/incremental/mergeDebugResources/merger.xml" afterPath="$PROJECT_DIR$/XYZReader/build/intermediates/incremental/mergeDebugResources/merger.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/XYZReader/build/intermediates/instant-run-support/debug/coldswap.marker" afterPath="$PROJECT_DIR$/XYZReader/build/intermediates/instant-run-support/debug/coldswap.marker" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/XYZReader/build/intermediates/res/merged/debug/layout/activity_article_detail.xml" afterPath="$PROJECT_DIR$/XYZReader/build/intermediates/res/merged/debug/layout/activity_article_detail.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/XYZReader/build/intermediates/res/merged/debug/layout/fragment_article_detail.xml" afterPath="$PROJECT_DIR$/XYZReader/build/intermediates/res/merged/debug/layout/fragment_article_detail.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/XYZReader/build/intermediates/res/merged/debug/values/values.xml" afterPath="$PROJECT_DIR$/XYZReader/build/intermediates/res/merged/debug/values/values.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/XYZReader/build/intermediates/restart-dex/debug/build-info.xml" afterPath="$PROJECT_DIR$/XYZReader/build/intermediates/restart-dex/debug/build-info.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/XYZReader/build/intermediates/symbols/debug/R.txt" afterPath="$PROJECT_DIR$/XYZReader/build/intermediates/symbols/debug/R.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/XYZReader/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_0/buildId.txt" afterPath="$PROJECT_DIR$/XYZReader/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_0/buildId.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/XYZReader/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_1/buildId.txt" afterPath="$PROJECT_DIR$/XYZReader/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_1/buildId.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/XYZReader/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_2/buildId.txt" afterPath="$PROJECT_DIR$/XYZReader/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_2/buildId.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/XYZReader/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_3/buildId.txt" afterPath="$PROJECT_DIR$/XYZReader/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_3/buildId.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/XYZReader/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_7/buildId.txt" afterPath="$PROJECT_DIR$/XYZReader/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_7/buildId.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/XYZReader/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_9/buildId.txt" afterPath="$PROJECT_DIR$/XYZReader/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_9/buildId.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/XYZReader/src/main/java/com/example/xyzreader/ui/ArticleDetailActivity.java" afterPath="$PROJECT_DIR$/XYZReader/src/main/java/com/example/xyzreader/ui/ArticleDetailActivity.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/XYZReader/src/main/java/com/example/xyzreader/ui/ArticleDetailFragment.java" afterPath="$PROJECT_DIR$/XYZReader/src/main/java/com/example/xyzreader/ui/ArticleDetailFragment.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/XYZReader/src/main/res/layout/activity_article_detail.xml" afterPath="$PROJECT_DIR$/XYZReader/src/main/res/layout/activity_article_detail.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/XYZReader/src/main/res/layout/fragment_article_detail.xml" afterPath="$PROJECT_DIR$/XYZReader/src/main/res/layout/fragment_article_detail.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/XYZReader/src/main/res/values/colors.xml" afterPath="$PROJECT_DIR$/XYZReader/src/main/res/values/colors.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/XYZReader/src/main/res/values/dimens.xml" afterPath="$PROJECT_DIR$/XYZReader/src/main/res/values/dimens.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/XYZReader/src/main/res/values/macro_layout.xml" afterPath="$PROJECT_DIR$/XYZReader/src/main/res/values/macro_layout.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/dex-cache/cache.xml" afterPath="$PROJECT_DIR$/build/intermediates/dex-cache/cache.xml" />
     </list>
     <ignored path="xyzreader.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -264,7 +108,99 @@
   <component name="ExternalProjectsManager">
     <system id="GRADLE">
       <state>
-        <projects_view />
+        <task path="$PROJECT_DIR$">
+          <activation />
+        </task>
+        <projects_view>
+          <tree_state>
+            <PATH>
+              <PATH_ELEMENT>
+                <option name="myItemId" value="" />
+                <option name="myItemType" value="com.intellij.openapi.externalSystem.view.ExternalProjectsStructure$RootNode" />
+              </PATH_ELEMENT>
+              <PATH_ELEMENT>
+                <option name="myItemId" value="xyzreader" />
+                <option name="myItemType" value="com.intellij.openapi.externalSystem.view.ProjectNode" />
+              </PATH_ELEMENT>
+            </PATH>
+            <PATH>
+              <PATH_ELEMENT>
+                <option name="myItemId" value="" />
+                <option name="myItemType" value="com.intellij.openapi.externalSystem.view.ExternalProjectsStructure$RootNode" />
+              </PATH_ELEMENT>
+              <PATH_ELEMENT>
+                <option name="myItemId" value="xyzreader" />
+                <option name="myItemType" value="com.intellij.openapi.externalSystem.view.ProjectNode" />
+              </PATH_ELEMENT>
+              <PATH_ELEMENT>
+                <option name="myItemId" value="xyzreader" />
+                <option name="myItemType" value="com.intellij.openapi.externalSystem.view.ModuleNode" />
+              </PATH_ELEMENT>
+            </PATH>
+            <PATH>
+              <PATH_ELEMENT>
+                <option name="myItemId" value="" />
+                <option name="myItemType" value="com.intellij.openapi.externalSystem.view.ExternalProjectsStructure$RootNode" />
+              </PATH_ELEMENT>
+              <PATH_ELEMENT>
+                <option name="myItemId" value="xyzreader" />
+                <option name="myItemType" value="com.intellij.openapi.externalSystem.view.ProjectNode" />
+              </PATH_ELEMENT>
+              <PATH_ELEMENT>
+                <option name="myItemId" value="xyzreader" />
+                <option name="myItemType" value="com.intellij.openapi.externalSystem.view.ModuleNode" />
+              </PATH_ELEMENT>
+              <PATH_ELEMENT>
+                <option name="myItemId" value="Tasks" />
+                <option name="myItemType" value="com.intellij.openapi.externalSystem.view.TasksNode" />
+              </PATH_ELEMENT>
+            </PATH>
+            <PATH>
+              <PATH_ELEMENT>
+                <option name="myItemId" value="" />
+                <option name="myItemType" value="com.intellij.openapi.externalSystem.view.ExternalProjectsStructure$RootNode" />
+              </PATH_ELEMENT>
+              <PATH_ELEMENT>
+                <option name="myItemId" value="xyzreader" />
+                <option name="myItemType" value="com.intellij.openapi.externalSystem.view.ProjectNode" />
+              </PATH_ELEMENT>
+              <PATH_ELEMENT>
+                <option name="myItemId" value="xyzreader" />
+                <option name="myItemType" value="com.intellij.openapi.externalSystem.view.ModuleNode" />
+              </PATH_ELEMENT>
+              <PATH_ELEMENT>
+                <option name="myItemId" value="Tasks" />
+                <option name="myItemType" value="com.intellij.openapi.externalSystem.view.TasksNode" />
+              </PATH_ELEMENT>
+              <PATH_ELEMENT>
+                <option name="myItemId" value="build" />
+                <option name="myItemType" value="com.intellij.openapi.externalSystem.view.TasksNode$1" />
+              </PATH_ELEMENT>
+            </PATH>
+            <PATH>
+              <PATH_ELEMENT>
+                <option name="myItemId" value="" />
+                <option name="myItemType" value="com.intellij.openapi.externalSystem.view.ExternalProjectsStructure$RootNode" />
+              </PATH_ELEMENT>
+              <PATH_ELEMENT>
+                <option name="myItemId" value="xyzreader" />
+                <option name="myItemType" value="com.intellij.openapi.externalSystem.view.ProjectNode" />
+              </PATH_ELEMENT>
+              <PATH_ELEMENT>
+                <option name="myItemId" value="xyzreader" />
+                <option name="myItemType" value="com.intellij.openapi.externalSystem.view.ModuleNode" />
+              </PATH_ELEMENT>
+              <PATH_ELEMENT>
+                <option name="myItemId" value="Tasks" />
+                <option name="myItemType" value="com.intellij.openapi.externalSystem.view.TasksNode" />
+              </PATH_ELEMENT>
+              <PATH_ELEMENT>
+                <option name="myItemId" value="android" />
+                <option name="myItemType" value="com.intellij.openapi.externalSystem.view.TasksNode$1" />
+              </PATH_ELEMENT>
+            </PATH>
+          </tree_state>
+        </projects_view>
       </state>
     </system>
   </component>
@@ -291,14 +227,9 @@
             <state />
           </provider>
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-5.2545457">
+            <state vertical-scroll-proportion="0.0">
               <caret line="17" column="0" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
-              <folding>
-                <element signature="e#462#492#0" expanded="true" />
-                <element signature="e#574#607#0" expanded="true" />
-                <element signature="e#643#676#0" expanded="true" />
-                <element signature="e#1115#1155#0" expanded="true" />
-              </folding>
+              <folding />
             </state>
           </provider>
         </entry>
@@ -309,26 +240,9 @@
             <state />
           </provider>
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="1.9741936">
-              <caret line="36" column="29" selection-start-line="36" selection-start-column="29" selection-end-line="36" selection-end-column="29" />
-              <folding>
-                <element signature="e#755#783#0" expanded="true" />
-                <element signature="e#1029#1069#0" expanded="true" />
-                <element signature="e#1430#1460#0" expanded="true" />
-                <element signature="e#1800#1836#0" expanded="true" />
-                <element signature="e#1976#2012#0" expanded="true" />
-                <element signature="e#2053#2087#0" expanded="true" />
-                <element signature="e#2129#2163#0" expanded="true" />
-                <element signature="e#2203#2239#0" expanded="true" />
-                <element signature="e#2687#2731#0" expanded="true" />
-                <element signature="e#2822#2853#0" expanded="true" />
-                <element signature="e#3503#3537#0" expanded="true" />
-                <element signature="e#3629#3663#0" expanded="true" />
-                <element signature="e#3706#3740#0" expanded="true" />
-                <element signature="e#4205#4224#0" expanded="true" />
-                <element signature="e#4260#4279#0" expanded="true" />
-                <element signature="e#4315#4337#0" expanded="true" />
-              </folding>
+            <state vertical-scroll-proportion="0.6032258">
+              <caret line="11" column="21" selection-start-line="11" selection-start-column="21" selection-end-line="11" selection-end-column="21" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -339,7 +253,7 @@
             <state />
           </provider>
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-9.272727">
+            <state vertical-scroll-proportion="0.0">
               <caret line="30" column="48" selection-start-line="30" selection-start-column="48" selection-end-line="30" selection-end-column="48" />
               <folding />
             </state>
@@ -349,7 +263,7 @@
       <file leaf-file-name="colors.xml" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/XYZReader/src/main/res/values/colors.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-16.23077">
+            <state vertical-scroll-proportion="0.0">
               <caret line="34" column="34" selection-start-line="34" selection-start-column="34" selection-end-line="34" selection-end-column="34" />
               <folding />
             </state>
@@ -359,7 +273,7 @@
       <file leaf-file-name="macro_layout.xml" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/XYZReader/src/main/res/values-sw600dp-land/macro_layout.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-0.0">
+            <state vertical-scroll-proportion="0.0">
               <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding />
             </state>
@@ -369,11 +283,10 @@
       <file leaf-file-name="ArticleDetailFragment.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/XYZReader/src/main/java/com/example/xyzreader/ui/ArticleDetailFragment.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-9.0">
+            <state vertical-scroll-proportion="0.0">
               <caret line="154" column="0" selection-start-line="154" selection-start-column="0" selection-end-line="154" selection-end-column="0" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#2735#2820#0" expanded="true" />
                 <element signature="e#2913#2914#0" expanded="true" />
                 <element signature="e#2973#2974#0" expanded="true" />
               </folding>
@@ -384,7 +297,7 @@
       <file leaf-file-name="macro_layout.xml" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/XYZReader/src/main/res/values/macro_layout.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-11.769231">
+            <state vertical-scroll-proportion="0.0">
               <caret line="18" column="12" selection-start-line="18" selection-start-column="12" selection-end-line="18" selection-end-column="12" />
               <folding />
             </state>
@@ -2182,147 +2095,13 @@
               <option name="myItemId" value="XYZReader" />
               <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidModuleNode" />
             </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="res" />
-              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidResFolderNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="values" />
-              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidResFolderTypeNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="xyzreader" />
-              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="XYZReader" />
-              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidModuleNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="res" />
-              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidResFolderNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="values" />
-              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidResFolderTypeNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="macro_layout.xml" />
-              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidResGroupNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="xyzreader" />
-              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="XYZReader" />
-              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidModuleNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="res" />
-              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidResFolderNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="values" />
-              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidResFolderTypeNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="dimens.xml" />
-              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidResGroupNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="xyzreader" />
-              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="XYZReader" />
-              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidModuleNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="res" />
-              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidResFolderNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="xyzreader" />
-              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="XYZReader" />
-              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidModuleNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="res" />
-              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidResFolderNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="layout" />
-              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidResFolderTypeNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="xyzreader" />
-              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="XYZReader" />
-              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidModuleNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="java" />
-              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidSourceTypeNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="xyzreader" />
-              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidPsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="ui" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="xyzreader" />
-              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="XYZReader" />
-              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidModuleNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="java" />
-              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidSourceTypeNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="xyzreader" />
-              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidPsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="xyzreader" />
-              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="XYZReader" />
-              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidModuleNode" />
-            </PATH_ELEMENT>
           </PATH>
         </subPane>
       </pane>
       <pane id="ProjectPane" />
+      <pane id="Scope" />
       <pane id="PackagesPane" />
       <pane id="Scratches" />
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -2343,7 +2122,25 @@
       <recent name="P:\UdacityProject\xyzreader\XYZReader\src\main\res\values-v21" />
     </key>
   </component>
-  <component name="RunManager" selected="Android Application.XYZReader">
+  <component name="RunManager" selected="Gradle.xyzreader [clean]">
+    <configuration default="false" name="xyzreader [clean]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="clean" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <method />
+    </configuration>
     <configuration default="true" type="AndroidRunConfigurationType" factoryName="Android Application">
       <module name="" />
       <option name="DEPLOY" value="true" />
@@ -2424,6 +2221,22 @@
       <option name="PASS_PARENT_ENVS" value="true" />
       <module name="" />
       <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="GradleRunConfiguration" factoryName="Gradle">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list />
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
       <method />
     </configuration>
     <configuration default="true" type="GroovyScriptRunConfiguration" factoryName="Groovy">
@@ -2599,9 +2412,15 @@
       <option name="ACTIVITY_CLASS" value="" />
       <method />
     </configuration>
-    <list size="1">
+    <list size="2">
       <item index="0" class="java.lang.String" itemvalue="Android Application.XYZReader" />
+      <item index="1" class="java.lang.String" itemvalue="Gradle.xyzreader [clean]" />
     </list>
+    <recent_temporary>
+      <list size="1">
+        <item index="0" class="java.lang.String" itemvalue="Gradle.xyzreader [clean]" />
+      </list>
+    </recent_temporary>
     <configuration name="&lt;template&gt;" type="Applet" default="true" selected="false">
       <option name="MAIN_CLASS_NAME" />
       <option name="HTML_FILE_NAME" />
@@ -2657,15 +2476,14 @@
       <window_info id="Android Monitor" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.55972695" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32980332" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32928944" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32935154" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32935154" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Captures" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Gradle Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="11" side_tool="true" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24886535" sideWeight="0.4795222" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Gradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Gradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32980332" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Android Model" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="true" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="true" content_ui="tabs" />
@@ -2676,6 +2494,7 @@
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="Vcs.Log.UiProperties">
@@ -2806,7 +2625,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.45698926">
           <caret line="15" column="50" selection-start-line="15" selection-start-column="50" selection-end-line="15" selection-end-column="50" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -2814,7 +2632,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.33512545">
           <caret line="11" column="18" selection-start-line="11" selection-start-column="18" selection-end-line="11" selection-end-column="18" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -2959,315 +2776,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-6.888889">
           <caret line="2650" column="30" selection-start-line="2650" selection-start-column="30" selection-end-line="2650" selection-end-column="30" />
-          <folding>
-            <marker date="1469970112436" expanded="true" signature="272:1367" placeholder="{...}" />
-            <marker date="1469970112436" expanded="true" signature="1403:126645" placeholder="{...}" />
-            <marker date="1469970112436" expanded="true" signature="1413:1640" placeholder="/**...*/" />
-            <marker date="1469970112436" expanded="true" signature="1710:1937" placeholder="/**...*/" />
-            <marker date="1469970112436" expanded="true" signature="2014:2241" placeholder="/**...*/" />
-            <marker date="1469970112436" expanded="true" signature="2314:3103" placeholder="/**...*/" />
-            <marker date="1469970112436" expanded="true" signature="3170:3397" placeholder="/**...*/" />
-            <marker date="1469970112436" expanded="true" signature="3470:3697" placeholder="/**...*/" />
-            <marker date="1469970112436" expanded="true" signature="3765:3992" placeholder="/**...*/" />
-            <marker date="1469970112436" expanded="true" signature="4066:4293" placeholder="/**...*/" />
-            <marker date="1469970112436" expanded="true" signature="4364:4591" placeholder="/**...*/" />
-            <marker date="1469970112436" expanded="true" signature="4666:4893" placeholder="/**...*/" />
-            <marker date="1469970112436" expanded="true" signature="4961:5188" placeholder="/**...*/" />
-            <marker date="1469970112436" expanded="true" signature="5262:5489" placeholder="/**...*/" />
-            <marker date="1469970112436" expanded="true" signature="5560:5787" placeholder="/**...*/" />
-            <marker date="1469970112436" expanded="true" signature="5860:6087" placeholder="/**...*/" />
-            <marker date="1469970112436" expanded="true" signature="6153:6380" placeholder="/**...*/" />
-            <marker date="1469970112436" expanded="true" signature="6458:6848" placeholder="/**...*/" />
-            <marker date="1469970112436" expanded="true" signature="6921:7148" placeholder="/**...*/" />
-            <marker date="1469970112436" expanded="true" signature="7222:7449" placeholder="/**...*/" />
-            <marker date="1469970112436" expanded="true" signature="7529:7756" placeholder="/**...*/" />
-            <marker date="1469970112436" expanded="true" signature="7833:8060" placeholder="/**...*/" />
-            <marker date="1469970112436" expanded="true" signature="8136:8363" placeholder="/**...*/" />
-            <marker date="1469970112436" expanded="true" signature="8438:8665" placeholder="/**...*/" />
-            <marker date="1469970112436" expanded="true" signature="8741:8968" placeholder="/**...*/" />
-            <marker date="1469970112436" expanded="true" signature="9045:9272" placeholder="/**...*/" />
-            <marker date="1469970112436" expanded="true" signature="9352:9579" placeholder="/**...*/" />
-            <marker date="1469970112436" expanded="true" signature="9660:9887" placeholder="/**...*/" />
-            <marker date="1469970112436" expanded="true" signature="9964:10191" placeholder="/**...*/" />
-            <marker date="1469970112436" expanded="true" signature="10270:10497" placeholder="/**...*/" />
-            <marker date="1469970112436" expanded="true" signature="10566:10793" placeholder="/**...*/" />
-            <marker date="1469970112436" expanded="true" signature="10874:11101" placeholder="/**...*/" />
-            <marker date="1469970112436" expanded="true" signature="11180:11407" placeholder="/**...*/" />
-            <marker date="1469970112436" expanded="true" signature="11484:11853" placeholder="/**...*/" />
-            <marker date="1469970112436" expanded="true" signature="11926:12295" placeholder="/**...*/" />
-            <marker date="1469970112436" expanded="true" signature="12364:12591" placeholder="/**...*/" />
-            <marker date="1469970112436" expanded="true" signature="12669:12896" placeholder="/**...*/" />
-            <marker date="1469970112436" expanded="true" signature="12977:13314" placeholder="/**...*/" />
-            <marker date="1469970112436" expanded="true" signature="13392:13619" placeholder="/**...*/" />
-            <marker date="1469970112436" expanded="true" signature="13689:13916" placeholder="/**...*/" />
-            <marker date="1469970112436" expanded="true" signature="13986:14323" placeholder="/**...*/" />
-            <marker date="1469970112436" expanded="true" signature="14390:14909" placeholder="/**...*/" />
-            <marker date="1469970112436" expanded="true" signature="14978:15497" placeholder="/**...*/" />
-            <marker date="1469970112436" expanded="true" signature="15567:15794" placeholder="/**...*/" />
-            <marker date="1469970112436" expanded="true" signature="15873:16100" placeholder="/**...*/" />
-            <marker date="1469970112436" expanded="true" signature="16164:16554" placeholder="/**...*/" />
-            <marker date="1469970112436" expanded="true" signature="16623:17013" placeholder="/**...*/" />
-            <marker date="1469970112436" expanded="true" signature="17084:17506" placeholder="/**...*/" />
-            <marker date="1469970112436" expanded="true" signature="17574:18091" placeholder="/**...*/" />
-            <marker date="1469970112436" expanded="true" signature="18163:18682" placeholder="/**...*/" />
-            <marker date="1469970112436" expanded="true" signature="18745:19082" placeholder="/**...*/" />
-            <marker date="1469970112436" expanded="true" signature="19153:19672" placeholder="/**...*/" />
-            <marker date="1469970112436" expanded="true" signature="19745:20264" placeholder="/**...*/" />
-            <marker date="1469970112436" expanded="true" signature="20337:20856" placeholder="/**...*/" />
-            <marker date="1469970112436" expanded="true" signature="20921:21148" placeholder="/**...*/" />
-            <marker date="1469970112436" expanded="true" signature="21223:21450" placeholder="/**...*/" />
-            <marker date="1469970112436" expanded="true" signature="21526:21753" placeholder="/**...*/" />
-            <marker date="1469970112436" expanded="true" signature="21823:22050" placeholder="/**...*/" />
-            <marker date="1469970112436" expanded="true" signature="22124:22351" placeholder="/**...*/" />
-            <marker date="1469970112436" expanded="true" signature="22433:22660" placeholder="/**...*/" />
-            <marker date="1469970112436" expanded="true" signature="22741:22968" placeholder="/**...*/" />
-            <marker date="1469970112436" expanded="true" signature="23050:23277" placeholder="/**...*/" />
-            <marker date="1469970112436" expanded="true" signature="23345:23572" placeholder="/**...*/" />
-            <marker date="1469970112436" expanded="true" signature="23647:23874" placeholder="/**...*/" />
-            <marker date="1469970112436" expanded="true" signature="23939:24166" placeholder="/**...*/" />
-            <marker date="1469970112436" expanded="true" signature="24236:24658" placeholder="/**...*/" />
-            <marker date="1469970112436" expanded="true" signature="24722:25239" placeholder="/**...*/" />
-            <marker date="1469970112436" expanded="true" signature="25307:25729" placeholder="/**...*/" />
-            <marker date="1469970112436" expanded="true" signature="25802:26321" placeholder="/**...*/" />
-            <marker date="1469970112436" expanded="true" signature="26391:26910" placeholder="/**...*/" />
-            <marker date="1469970112436" expanded="true" signature="26977:27496" placeholder="/**...*/" />
-            <marker date="1469970112436" expanded="true" signature="27566:27903" placeholder="/**...*/" />
-            <marker date="1469970112436" expanded="true" signature="27981:28318" placeholder="/**...*/" />
-            <marker date="1469970112436" expanded="true" signature="28392:28619" placeholder="/**...*/" />
-            <marker date="1469970112436" expanded="true" signature="28686:28913" placeholder="/**...*/" />
-            <marker date="1469970112436" expanded="true" signature="28987:29214" placeholder="/**...*/" />
-            <marker date="1469970112436" expanded="true" signature="29277:29504" placeholder="/**...*/" />
-            <marker date="1469970112436" expanded="true" signature="29573:29942" placeholder="/**...*/" />
-            <marker date="1469970112436" expanded="true" signature="30022:30249" placeholder="/**...*/" />
-            <marker date="1469970112436" expanded="true" signature="30315:31195" placeholder="/**...*/" />
-            <marker date="1469970112436" expanded="true" signature="31270:31497" placeholder="/**...*/" />
-            <marker date="1469970112436" expanded="true" signature="31579:32001" placeholder="/**...*/" />
-            <marker date="1469970112436" expanded="true" signature="32060:32482" placeholder="/**...*/" />
-            <marker date="1469970112436" expanded="true" signature="32547:32969" placeholder="/**...*/" />
-            <marker date="1469970112436" expanded="true" signature="33040:33462" placeholder="/**...*/" />
-            <marker date="1469970112436" expanded="true" signature="33537:33959" placeholder="/**...*/" />
-            <marker date="1469970112436" expanded="true" signature="34034:34456" placeholder="/**...*/" />
-            <marker date="1469970112436" expanded="true" signature="34528:34950" placeholder="/**...*/" />
-            <marker date="1469970112436" expanded="true" signature="35016:35438" placeholder="/**...*/" />
-            <marker date="1469970112436" expanded="true" signature="35508:35930" placeholder="/**...*/" />
-            <marker date="1469970112436" expanded="true" signature="36006:36233" placeholder="/**...*/" />
-            <marker date="1469970112436" expanded="true" signature="36297:36816" placeholder="/**...*/" />
-            <marker date="1469970112436" expanded="true" signature="36885:37404" placeholder="/**...*/" />
-            <marker date="1469970112436" expanded="true" signature="37474:37993" placeholder="/**...*/" />
-            <marker date="1469970112436" expanded="true" signature="38064:38583" placeholder="/**...*/" />
-            <marker date="1469970112436" expanded="true" signature="38654:39173" placeholder="/**...*/" />
-            <marker date="1469970112436" expanded="true" signature="39241:39760" placeholder="/**...*/" />
-            <marker date="1469970112436" expanded="true" signature="39834:40353" placeholder="/**...*/" />
-            <marker date="1469970112436" expanded="true" signature="40425:40944" placeholder="/**...*/" />
-            <marker date="1469970112436" expanded="true" signature="41017:41536" placeholder="/**...*/" />
-            <marker date="1469970112436" expanded="true" signature="41607:42029" placeholder="/**...*/" />
-            <marker date="1469970112436" expanded="true" signature="42095:42322" placeholder="/**...*/" />
-            <marker date="1469970112436" expanded="true" signature="42393:42730" placeholder="/**...*/" />
-            <marker date="1469970112436" expanded="true" signature="42798:43112" placeholder="/**...*/" />
-            <marker date="1469970112436" expanded="true" signature="43182:43409" placeholder="/**...*/" />
-            <marker date="1469970112436" expanded="true" signature="43492:43719" placeholder="/**...*/" />
-            <marker date="1469970112436" expanded="true" signature="43794:44021" placeholder="/**...*/" />
-            <marker date="1469970112436" expanded="true" signature="44097:44466" placeholder="/**...*/" />
-            <marker date="1469970112436" expanded="true" signature="44536:45055" placeholder="/**...*/" />
-            <marker date="1469970112436" expanded="true" signature="45131:45358" placeholder="/**...*/" />
-            <marker date="1469970112436" expanded="true" signature="45423:46102" placeholder="/**...*/" />
-            <marker date="1469970112436" expanded="true" signature="46170:46397" placeholder="/**...*/" />
-            <marker date="1469970112436" expanded="true" signature="46458:46685" placeholder="/**...*/" />
-            <marker date="1469970112436" expanded="true" signature="46756:47275" placeholder="/**...*/" />
-            <marker date="1469970112436" expanded="true" signature="47343:47570" placeholder="/**...*/" />
-            <marker date="1469970112436" expanded="true" signature="47639:48158" placeholder="/**...*/" />
-            <marker date="1469970112436" expanded="true" signature="48224:48451" placeholder="/**...*/" />
-            <marker date="1469970112436" expanded="true" signature="48521:48748" placeholder="/**...*/" />
-            <marker date="1469970112436" expanded="true" signature="48823:49342" placeholder="/**...*/" />
-            <marker date="1469970112436" expanded="true" signature="49427:49654" placeholder="/**...*/" />
-            <marker date="1469970112436" expanded="true" signature="49726:50116" placeholder="/**...*/" />
-            <marker date="1469970112436" expanded="true" signature="50183:50410" placeholder="/**...*/" />
-            <marker date="1469970112436" expanded="true" signature="50477:50996" placeholder="/**...*/" />
-            <marker date="1469970112436" expanded="true" signature="51059:51396" placeholder="/**...*/" />
-            <marker date="1469970112436" expanded="true" signature="51462:51689" placeholder="/**...*/" />
-            <marker date="1469970112436" expanded="true" signature="51762:51989" placeholder="/**...*/" />
-            <marker date="1469970112436" expanded="true" signature="52079:52416" placeholder="/**...*/" />
-            <marker date="1469970112436" expanded="true" signature="52478:53358" placeholder="/**...*/" />
-            <marker date="1469970112436" expanded="true" signature="53432:53951" placeholder="/**...*/" />
-            <marker date="1469970112436" expanded="true" signature="54024:54543" placeholder="/**...*/" />
-            <marker date="1469970112436" expanded="true" signature="54622:55141" placeholder="/**...*/" />
-            <marker date="1469970112436" expanded="true" signature="55217:55736" placeholder="/**...*/" />
-            <marker date="1469970112436" expanded="true" signature="55814:56333" placeholder="/**...*/" />
-            <marker date="1469970112436" expanded="true" signature="56409:56636" placeholder="/**...*/" />
-            <marker date="1469970112436" expanded="true" signature="56717:57053" placeholder="/**...*/" />
-            <marker date="1469970112436" expanded="true" signature="57114:57451" placeholder="/**...*/" />
-            <marker date="1469970112436" expanded="true" signature="57528:58047" placeholder="/**...*/" />
-            <marker date="1469970112436" expanded="true" signature="58115:58342" placeholder="/**...*/" />
-            <marker date="1469970112436" expanded="true" signature="58402:58629" placeholder="/**...*/" />
-            <marker date="1469970112436" expanded="true" signature="58695:59214" placeholder="/**...*/" />
-            <marker date="1469970112436" expanded="true" signature="59274:59611" placeholder="/**...*/" />
-            <marker date="1469970112436" expanded="true" signature="59684:60021" placeholder="/**...*/" />
-            <marker date="1469970112436" expanded="true" signature="60095:60432" placeholder="/**...*/" />
-            <marker date="1469970112436" expanded="true" signature="60497:60724" placeholder="/**...*/" />
-            <marker date="1469970112436" expanded="true" signature="60796:61023" placeholder="/**...*/" />
-            <marker date="1469970112436" expanded="true" signature="61094:61321" placeholder="/**...*/" />
-            <marker date="1469970112436" expanded="true" signature="61385:61612" placeholder="/**...*/" />
-            <marker date="1469970112436" expanded="true" signature="61670:62007" placeholder="/**...*/" />
-            <marker date="1469970112436" expanded="true" signature="62079:62306" placeholder="/**...*/" />
-            <marker date="1469970112436" expanded="true" signature="62376:62603" placeholder="/**...*/" />
-            <marker date="1469970112436" expanded="true" signature="62683:63052" placeholder="/**...*/" />
-            <marker date="1469970112436" expanded="true" signature="63126:63516" placeholder="/**...*/" />
-            <marker date="1469970112436" expanded="true" signature="63585:63975" placeholder="/**...*/" />
-            <marker date="1469970112436" expanded="true" signature="64044:64381" placeholder="/**...*/" />
-            <marker date="1469970112436" expanded="true" signature="64447:64674" placeholder="/**...*/" />
-            <marker date="1469970112436" expanded="true" signature="64742:65164" placeholder="/**...*/" />
-            <marker date="1469970112436" expanded="true" signature="65230:65749" placeholder="/**...*/" />
-            <marker date="1469970112436" expanded="true" signature="65814:66041" placeholder="/**...*/" />
-            <marker date="1469970112436" expanded="true" signature="66113:66535" placeholder="/**...*/" />
-            <marker date="1469970112436" expanded="true" signature="66602:66829" placeholder="/**...*/" />
-            <marker date="1469970112436" expanded="true" signature="66891:67118" placeholder="/**...*/" />
-            <marker date="1469970112436" expanded="true" signature="67178:67547" placeholder="/**...*/" />
-            <marker date="1469970112436" expanded="true" signature="67614:67841" placeholder="/**...*/" />
-            <marker date="1469970112436" expanded="true" signature="67908:69051" placeholder="/**...*/" />
-            <marker date="1469970112436" expanded="true" signature="69125:69494" placeholder="/**...*/" />
-            <marker date="1469970112436" expanded="true" signature="69563:69955" placeholder="/**...*/" />
-            <marker date="1469970112436" expanded="true" signature="70028:70348" placeholder="/**...*/" />
-            <marker date="1469970112436" expanded="true" signature="70435:70749" placeholder="/**...*/" />
-            <marker date="1469970112436" expanded="true" signature="70817:71393" placeholder="/**...*/" />
-            <marker date="1469970112436" expanded="true" signature="71465:71692" placeholder="/**...*/" />
-            <marker date="1469970112436" expanded="true" signature="71771:71998" placeholder="/**...*/" />
-            <marker date="1469970112436" expanded="true" signature="72081:72308" placeholder="/**...*/" />
-            <marker date="1469970112436" expanded="true" signature="72384:72611" placeholder="/**...*/" />
-            <marker date="1469970112436" expanded="true" signature="72679:72906" placeholder="/**...*/" />
-            <marker date="1469970112436" expanded="true" signature="72970:73197" placeholder="/**...*/" />
-            <marker date="1469970112436" expanded="true" signature="73271:73790" placeholder="/**...*/" />
-            <marker date="1469970112436" expanded="true" signature="73867:74386" placeholder="/**...*/" />
-            <marker date="1469970112436" expanded="true" signature="74468:74987" placeholder="/**...*/" />
-            <marker date="1469970112436" expanded="true" signature="75069:75588" placeholder="/**...*/" />
-            <marker date="1469970112436" expanded="true" signature="75670:76189" placeholder="/**...*/" />
-            <marker date="1469970112436" expanded="true" signature="76272:76499" placeholder="/**...*/" />
-            <marker date="1469970112436" expanded="true" signature="76557:76926" placeholder="/**...*/" />
-            <marker date="1469970112436" expanded="true" signature="76995:77514" placeholder="/**...*/" />
-            <marker date="1469970112436" expanded="true" signature="77588:78107" placeholder="/**...*/" />
-            <marker date="1469970112436" expanded="true" signature="78176:78513" placeholder="/**...*/" />
-            <marker date="1469970112436" expanded="true" signature="78590:78817" placeholder="/**...*/" />
-            <marker date="1469970112436" expanded="true" signature="78875:79102" placeholder="/**...*/" />
-            <marker date="1469970112436" expanded="true" signature="79177:79546" placeholder="/**...*/" />
-            <marker date="1469970112436" expanded="true" signature="79628:79855" placeholder="/**...*/" />
-            <marker date="1469970112436" expanded="true" signature="79923:80321" placeholder="/**...*/" />
-            <marker date="1469970112436" expanded="true" signature="80389:80726" placeholder="/**...*/" />
-            <marker date="1469970112436" expanded="true" signature="80793:81312" placeholder="/**...*/" />
-            <marker date="1469970112436" expanded="true" signature="81376:81895" placeholder="/**...*/" />
-            <marker date="1469970112436" expanded="true" signature="81961:82188" placeholder="/**...*/" />
-            <marker date="1469970112436" expanded="true" signature="82257:82484" placeholder="/**...*/" />
-            <marker date="1469970112436" expanded="true" signature="82556:83075" placeholder="/**...*/" />
-            <marker date="1469970112436" expanded="true" signature="83147:83374" placeholder="/**...*/" />
-            <marker date="1469970112436" expanded="true" signature="83442:83669" placeholder="/**...*/" />
-            <marker date="1469970112436" expanded="true" signature="83733:83960" placeholder="/**...*/" />
-            <marker date="1469970112436" expanded="true" signature="84030:84367" placeholder="/**...*/" />
-            <marker date="1469970112436" expanded="true" signature="84440:84959" placeholder="/**...*/" />
-            <marker date="1469970112436" expanded="true" signature="85032:85551" placeholder="/**...*/" />
-            <marker date="1469970112436" expanded="true" signature="85623:85850" placeholder="/**...*/" />
-            <marker date="1469970112436" expanded="true" signature="85920:86147" placeholder="/**...*/" />
-            <marker date="1469970112436" expanded="true" signature="86216:86585" placeholder="/**...*/" />
-            <marker date="1469970112436" expanded="true" signature="86648:86875" placeholder="/**...*/" />
-            <marker date="1469970112436" expanded="true" signature="86945:87172" placeholder="/**...*/" />
-            <marker date="1469970112436" expanded="true" signature="87240:87467" placeholder="/**...*/" />
-            <marker date="1469970112436" expanded="true" signature="87544:87771" placeholder="/**...*/" />
-            <marker date="1469970112436" expanded="true" signature="87844:88181" placeholder="/**...*/" />
-            <marker date="1469970112436" expanded="true" signature="88248:88670" placeholder="/**...*/" />
-            <marker date="1469970112436" expanded="true" signature="88735:88962" placeholder="/**...*/" />
-            <marker date="1469970112436" expanded="true" signature="89030:89257" placeholder="/**...*/" />
-            <marker date="1469970112436" expanded="true" signature="89321:89548" placeholder="/**...*/" />
-            <marker date="1469970112436" expanded="true" signature="89617:89844" placeholder="/**...*/" />
-            <marker date="1469970112436" expanded="true" signature="89910:90137" placeholder="/**...*/" />
-            <marker date="1469970112436" expanded="true" signature="90215:90442" placeholder="/**...*/" />
-            <marker date="1469970112436" expanded="true" signature="90530:91079" placeholder="/**...*/" />
-            <marker date="1469970112436" expanded="true" signature="91145:91622" placeholder="/**...*/" />
-            <marker date="1469970112436" expanded="true" signature="91688:92025" placeholder="/**...*/" />
-            <marker date="1469970112436" expanded="true" signature="92087:92314" placeholder="/**...*/" />
-            <marker date="1469970112436" expanded="true" signature="92390:92704" placeholder="/**...*/" />
-            <marker date="1469970112436" expanded="true" signature="92767:93104" placeholder="/**...*/" />
-            <marker date="1469970112436" expanded="true" signature="93166:93393" placeholder="/**...*/" />
-            <marker date="1469970112436" expanded="true" signature="93471:93698" placeholder="/**...*/" />
-            <marker date="1469970112436" expanded="true" signature="93764:94101" placeholder="/**...*/" />
-            <marker date="1469970112436" expanded="true" signature="94165:94392" placeholder="/**...*/" />
-            <marker date="1469970112436" expanded="true" signature="94455:94792" placeholder="/**...*/" />
-            <marker date="1469970112436" expanded="true" signature="94858:95195" placeholder="/**...*/" />
-            <marker date="1469970112436" expanded="true" signature="95267:95494" placeholder="/**...*/" />
-            <marker date="1469970112436" expanded="true" signature="95567:95989" placeholder="/**...*/" />
-            <marker date="1469970112436" expanded="true" signature="96057:96284" placeholder="/**...*/" />
-            <marker date="1469970112436" expanded="true" signature="96354:96723" placeholder="/**...*/" />
-            <marker date="1469970112436" expanded="true" signature="96785:97012" placeholder="/**...*/" />
-            <marker date="1469970112436" expanded="true" signature="97088:97510" placeholder="/**...*/" />
-            <marker date="1469970112436" expanded="true" signature="97581:97808" placeholder="/**...*/" />
-            <marker date="1469970112436" expanded="true" signature="97879:98106" placeholder="/**...*/" />
-            <marker date="1469970112436" expanded="true" signature="98179:98698" placeholder="/**...*/" />
-            <marker date="1469970112436" expanded="true" signature="98766:99285" placeholder="/**...*/" />
-            <marker date="1469970112436" expanded="true" signature="99352:99579" placeholder="/**...*/" />
-            <marker date="1469970112436" expanded="true" signature="99644:99871" placeholder="/**...*/" />
-            <marker date="1469970112436" expanded="true" signature="99945:100172" placeholder="/**...*/" />
-            <marker date="1469970112436" expanded="true" signature="100239:100758" placeholder="/**...*/" />
-            <marker date="1469970112436" expanded="true" signature="100827:101163" placeholder="/**...*/" />
-            <marker date="1469970112436" expanded="true" signature="101227:101649" placeholder="/**...*/" />
-            <marker date="1469970112436" expanded="true" signature="101720:102239" placeholder="/**...*/" />
-            <marker date="1469970112436" expanded="true" signature="102311:102830" placeholder="/**...*/" />
-            <marker date="1469970112436" expanded="true" signature="102895:103414" placeholder="/**...*/" />
-            <marker date="1469970112436" expanded="true" signature="103479:103820" placeholder="/**...*/" />
-            <marker date="1469970112436" expanded="true" signature="103881:104400" placeholder="/**...*/" />
-            <marker date="1469970112436" expanded="true" signature="104464:104983" placeholder="/**...*/" />
-            <marker date="1469970112436" expanded="true" signature="105053:105572" placeholder="/**...*/" />
-            <marker date="1469970112436" expanded="true" signature="105639:106158" placeholder="/**...*/" />
-            <marker date="1469970112436" expanded="true" signature="106227:106746" placeholder="/**...*/" />
-            <marker date="1469970112436" expanded="true" signature="106813:107235" placeholder="/**...*/" />
-            <marker date="1469970112436" expanded="true" signature="107309:107536" placeholder="/**...*/" />
-            <marker date="1469970112436" expanded="true" signature="107607:108029" placeholder="/**...*/" />
-            <marker date="1469970112436" expanded="true" signature="108095:108400" placeholder="/**...*/" />
-            <marker date="1469970112436" expanded="true" signature="108465:108692" placeholder="/**...*/" />
-            <marker date="1469970112436" expanded="true" signature="108774:109001" placeholder="/**...*/" />
-            <marker date="1469970112436" expanded="true" signature="109077:109304" placeholder="/**...*/" />
-            <marker date="1469970112436" expanded="true" signature="109385:109612" placeholder="/**...*/" />
-            <marker date="1469970112436" expanded="true" signature="109700:109927" placeholder="/**...*/" />
-            <marker date="1469970112436" expanded="true" signature="110012:110239" placeholder="/**...*/" />
-            <marker date="1469970112436" expanded="true" signature="110321:110711" placeholder="/**...*/" />
-            <marker date="1469970112436" expanded="true" signature="110793:111215" placeholder="/**...*/" />
-            <marker date="1469970112436" expanded="true" signature="111283:111673" placeholder="/**...*/" />
-            <marker date="1469970112436" expanded="true" signature="111745:111972" placeholder="/**...*/" />
-            <marker date="1469970112436" expanded="true" signature="112031:112550" placeholder="/**...*/" />
-            <marker date="1469970112436" expanded="true" signature="112613:113132" placeholder="/**...*/" />
-            <marker date="1469970112436" expanded="true" signature="113202:113571" placeholder="/**...*/" />
-            <marker date="1469970112436" expanded="true" signature="113630:113967" placeholder="/**...*/" />
-            <marker date="1469970112436" expanded="true" signature="114033:114552" placeholder="/**...*/" />
-            <marker date="1469970112436" expanded="true" signature="114623:115142" placeholder="/**...*/" />
-            <marker date="1469970112436" expanded="true" signature="115210:115729" placeholder="/**...*/" />
-            <marker date="1469970112436" expanded="true" signature="115799:116318" placeholder="/**...*/" />
-            <marker date="1469970112436" expanded="true" signature="116386:116905" placeholder="/**...*/" />
-            <marker date="1469970112436" expanded="true" signature="116971:117198" placeholder="/**...*/" />
-            <marker date="1469970112436" expanded="true" signature="117271:117693" placeholder="/**...*/" />
-            <marker date="1469970112436" expanded="true" signature="117761:117988" placeholder="/**...*/" />
-            <marker date="1469970112436" expanded="true" signature="118056:118283" placeholder="/**...*/" />
-            <marker date="1469970112436" expanded="true" signature="118346:118573" placeholder="/**...*/" />
-            <marker date="1469970112436" expanded="true" signature="118655:118882" placeholder="/**...*/" />
-            <marker date="1469970112436" expanded="true" signature="118948:119175" placeholder="/**...*/" />
-            <marker date="1469970112436" expanded="true" signature="119234:119571" placeholder="/**...*/" />
-            <marker date="1469970112436" expanded="true" signature="119641:119868" placeholder="/**...*/" />
-            <marker date="1469970112436" expanded="true" signature="119931:120268" placeholder="/**...*/" />
-            <marker date="1469970112436" expanded="true" signature="120337:120674" placeholder="/**...*/" />
-            <marker date="1469970112436" expanded="true" signature="120750:121087" placeholder="/**...*/" />
-            <marker date="1469970112436" expanded="true" signature="121164:121936" placeholder="/**...*/" />
-            <marker date="1469970112436" expanded="true" signature="122012:122784" placeholder="/**...*/" />
-            <marker date="1469970112436" expanded="true" signature="122860:123632" placeholder="/**...*/" />
-            <marker date="1469970112436" expanded="true" signature="123707:124479" placeholder="/**...*/" />
-            <marker date="1469970112436" expanded="true" signature="124554:125326" placeholder="/**...*/" />
-            <marker date="1469970112436" expanded="true" signature="125399:126171" placeholder="/**...*/" />
-            <marker date="1469970112436" expanded="true" signature="126244:126581" placeholder="/**...*/" />
-            <marker date="1469970112436" expanded="true" signature="126681:127397" placeholder="{...}" />
-            <marker date="1469970112436" expanded="true" signature="127434:134488" placeholder="{...}" />
-            <marker date="1469970112436" expanded="true" signature="134525:144131" placeholder="{...}" />
-            <marker date="1469970112436" expanded="true" signature="144171:150482" placeholder="{...}" />
-            <marker date="1469970112436" expanded="true" signature="150522:150609" placeholder="{...}" />
-            <marker date="1469970112436" expanded="true" signature="150643:158772" placeholder="{...}" />
-            <marker date="1469970112436" expanded="true" signature="158811:159390" placeholder="{...}" />
-            <marker date="1469970112436" expanded="true" signature="159428:163259" placeholder="{...}" />
-            <marker date="1469970112436" expanded="true" signature="163295:163351" placeholder="{...}" />
-            <marker date="1469970112436" expanded="true" signature="163389:163452" placeholder="{...}" />
-            <marker date="1469970112436" expanded="true" signature="163490:165767" placeholder="{...}" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -3283,7 +2792,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="1496.3334">
           <caret line="16" column="5" selection-start-line="16" selection-start-column="5" selection-end-line="16" selection-end-column="5" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -3291,7 +2799,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.33333334">
           <caret line="44" column="51" selection-start-line="44" selection-start-column="51" selection-end-line="44" selection-end-column="51" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -3345,7 +2852,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-0.85">
           <caret line="4" column="17" selection-start-line="4" selection-start-column="17" selection-end-line="4" selection-end-column="17" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -3361,7 +2867,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/XYZReader/src/main/res/values/macro_layout.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-11.769231">
+        <state vertical-scroll-proportion="0.0">
           <caret line="18" column="12" selection-start-line="18" selection-start-column="12" selection-end-line="18" selection-end-column="12" />
           <folding />
         </state>
@@ -3380,14 +2886,9 @@
         <state />
       </provider>
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-5.2545457">
+        <state vertical-scroll-proportion="0.0">
           <caret line="17" column="0" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
-          <folding>
-            <element signature="e#462#492#0" expanded="true" />
-            <element signature="e#574#607#0" expanded="true" />
-            <element signature="e#643#676#0" expanded="true" />
-            <element signature="e#1115#1155#0" expanded="true" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -3425,7 +2926,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/XYZReader/src/main/res/values/colors.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-16.23077">
+        <state vertical-scroll-proportion="0.0">
           <caret line="34" column="34" selection-start-line="34" selection-start-column="34" selection-end-line="34" selection-end-column="34" />
           <folding />
         </state>
@@ -3436,7 +2937,7 @@
         <state />
       </provider>
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-9.272727">
+        <state vertical-scroll-proportion="0.0">
           <caret line="30" column="48" selection-start-line="30" selection-start-column="48" selection-end-line="30" selection-end-column="48" />
           <folding />
         </state>
@@ -3444,11 +2945,10 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/XYZReader/src/main/java/com/example/xyzreader/ui/ArticleDetailFragment.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-9.0">
+        <state vertical-scroll-proportion="0.0">
           <caret line="154" column="0" selection-start-line="154" selection-start-column="0" selection-end-line="154" selection-end-column="0" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#2735#2820#0" expanded="true" />
             <element signature="e#2913#2914#0" expanded="true" />
             <element signature="e#2973#2974#0" expanded="true" />
           </folding>
@@ -3460,26 +2960,9 @@
         <state />
       </provider>
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="1.9741936">
-          <caret line="36" column="29" selection-start-line="36" selection-start-column="29" selection-end-line="36" selection-end-column="29" />
-          <folding>
-            <element signature="e#755#783#0" expanded="true" />
-            <element signature="e#1029#1069#0" expanded="true" />
-            <element signature="e#1430#1460#0" expanded="true" />
-            <element signature="e#1800#1836#0" expanded="true" />
-            <element signature="e#1976#2012#0" expanded="true" />
-            <element signature="e#2053#2087#0" expanded="true" />
-            <element signature="e#2129#2163#0" expanded="true" />
-            <element signature="e#2203#2239#0" expanded="true" />
-            <element signature="e#2687#2731#0" expanded="true" />
-            <element signature="e#2822#2853#0" expanded="true" />
-            <element signature="e#3503#3537#0" expanded="true" />
-            <element signature="e#3629#3663#0" expanded="true" />
-            <element signature="e#3706#3740#0" expanded="true" />
-            <element signature="e#4205#4224#0" expanded="true" />
-            <element signature="e#4260#4279#0" expanded="true" />
-            <element signature="e#4315#4337#0" expanded="true" />
-          </folding>
+        <state vertical-scroll-proportion="0.6032258">
+          <caret line="11" column="21" selection-start-line="11" selection-start-column="21" selection-end-line="11" selection-end-column="21" />
+          <folding />
         </state>
       </provider>
     </entry>
